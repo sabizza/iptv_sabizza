@@ -209,6 +209,8 @@ http://api.oneiptv.tv/load.php?id=0
 https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
 #EXTINF:-1,AR:Spacetoon TV
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,AR:Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 #EXTINF:-1,FR:Boing TV
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 #EXTINF:-1,FR:CN fr TV
@@ -249,15 +251,19 @@ https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,PR:KuriakosKids TV
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1,DE:KIKA TV
+http://176.10.117.3:5000/play/a037
 #EXTINF:-1,GK:Wzra kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1,Sl:Joj Kids TV
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1,CZ:Jajko TV
+http://nn.geo.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1,BG:EKids TV
 https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
 #EXTINF:-1,BG:NICK JR TV
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1,NICKELODEON GER
+#EXTINF:-1,BG:NICKELODEON GER
 http://136.243.177.164/NICKELODEON/playlist.m3u8
 #EXTINF:-1,US:3ABN Kids TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
@@ -287,7 +293,13 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1,RU:Karusel TV
 http://uiptv.do.am/1ufc/000000007/playlist.m3u8
-#EXTINF:-1,RU:Malyatko TV
+#EXTINF:-1,RU:Карусель
+https://cdn.mytouchtv.tv/hlsl/10/Karusel/Karusel_2/index.m3u8
+#EXTINF:-1,RU:MUP Kids TV
+http://31.210.170.39:6620/ch035/index.m3u8
+#EXTINF:-1,RU:СТС Kids
+http://live-ng-01.more.tv/hls/CTC_Kids/master.m3u8
+#EXTINF:-1,UC:Malyatko TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,UC:Lale TV
 http://stream.atr.ua/lale/live/index.m3u8
@@ -297,8 +309,12 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 #EXTINF:-1,HI:Disney Channel
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1,HI:Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1,HI:IBC Kids TV
 https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+#EXTINF:-1,HI:Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 #EXTINF:-1,CN:ANIMAX TV
 https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 #EXTINF:-1,CN:Battery Pop TV
@@ -321,6 +337,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
 #EXTINF:-1,CN:北京卡酷少儿
 http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1,JP:Animax TV
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 #EXTINF:-1,KR:EBS Kids TV
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,KR:EBS Kids TV
