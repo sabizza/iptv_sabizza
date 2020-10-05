@@ -363,18 +363,36 @@ https://d.top4top.io/m_1478p5qfu2.mp4
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,MR:Arrabiaa TV
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1,BG:NGC Wild Bulgaria
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1,TR:TGRT Belgesel TV
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
 #EXTINF:-1,US:AKC Dog TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1,US:Cat TV
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-#EXTINF:-1,BG:NGC Bulgaria
+#EXTINF:-1,AR:NatGeo Arab hdTV
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1,BG:NatGeo Bulg hdTV
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
-#EXTINF:-1,VT:NGC Vietnam 
+#EXTINF:-1,VT:NatGeo Viet sdTV
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
-#EXTINF:-1,CN:NGC China
+#EXTINF:-1,CN:NatGeo China sdTV
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo?auth=zarin:RJsKR
+#EXTINF:-1,CN:NatGeo China hdTV
+https://www.fanmingming.cn/hls/natlgeo.m3u8
+#EXTINF:-1,RU:NatGeo Russia hdTV
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
+#EXTINF:-1,RU:NatGeoWild Russia hdTV
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
+#EXTINF:-1,BG:NatGeoWild Bulg sdTV
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1,HI:Animal Planet TV
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+#EXTINF:-1,RU:Animal Planet TV
+http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HI:Discovery Science Hindi
+https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:-1,US:Discovery Science English
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 #EXTINF:-1,PR:Odisseia Eng hdTV
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
 #EXTINF:-1,SP:Extremadura TV
@@ -409,8 +427,18 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1,De:kultur Md TV
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1,EXY:Tring World TV
+http://5.135.92.133:52841/out/u/412_1.m3u8
+#EXTINF:-1,EXY:Tring Planet TV
+http://5.135.92.133:52841/out/u/371_1.m3u8
+#EXTINF:-1,EXY:Tring History TV
+http://5.135.92.133:52841/out/u/532_1.m3u8
+#EXTINF:-1,EXY:Fine Living Eng TV
+http://5.135.92.133:52841/out/u/498_1.m3u8
 #EXTINF:-1,IR:Persiana Documentary
 http://163.172.174.60/hls/stream.m3u8
+#EXTINF:-1,RU:Viasat Explore
+http://188.35.9.5:10020/stolen/485v/hot.dll
 #EXTINF:-1,RU:RT Documentary
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RU:RT Documentary hdTV
@@ -497,6 +525,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,UK:FoodNetwork TV
 http://95.86.32.7:999/food
+#EXTINF:-1,US:Food Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1,US:Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1,US:Beach TV
@@ -519,6 +549,8 @@ http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
 #EXTINF:-1,RU:Univer TV HD
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,RU:DaVinci Россия
+http://89.106.234.4:80/DaVinci_34_35.m3u8
 #EXTINF:-1,KR:EBSe TV
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,KR:EBSi TV
