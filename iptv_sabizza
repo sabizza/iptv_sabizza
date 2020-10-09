@@ -51,6 +51,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1,TR:A Haber TV
 http://ch.canlitvlive.io/ahaber/live.m3u8
+#EXTINF:-1,TR:TGRT Haber TV
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 #EXTINF:-1,AR:Alyaum TV
 http://172.105.89.215:5080/LiveApp/streams/270434322502251479308014.m3u8
 #EXTINF:-1,FR:France24 Ara TV
@@ -69,8 +71,10 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1,FR:TV5MondeInfo TV
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:0 BE:LN24 hdTV
+#EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:0,BE:LN24 hdTV
+http://iptvh.it/LN24
 #EXTINF:-1,CA:ICI RDI fra hdTV
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,CA:CPAC Fra TV
@@ -85,6 +89,8 @@ http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
 #EXTINF:-1,IT:RaiNews24 TV
 http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1,IT:TGNews24 TV
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,RO:News24 Balkan TV
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,GK:Boyah TV
@@ -93,6 +99,8 @@ http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,TR:CNN Turc TV
 http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,TR:CNN Turc TV
+http://iptvh.it/sabizza
 #EXTINF:-1,DE:DW Arabia
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_2_av-b.m3u8
 #EXTINF:-1,DE:DW TV
@@ -107,6 +115,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8?erwiniptv.m3u8
 #EXTINF:-1,UK:Reuters News TV
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+#EXTINF:-1,UN:UN TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:-1,US:ABC News TV
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:-1,US:ABC News hdTV
