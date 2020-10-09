@@ -417,6 +417,7 @@ https://e.top4top.io/m_14780yajy3.mp4
 https://d.top4top.io/m_1478p5qfu2.mp4
 #EXTINF:-1 tvg-ID="" tvg-name="DOCUMENTARY & EDUCATION" tvg-logo="" group-title="DOCUMENTARY & EDUCATION",===== DOCUMENTARY & EDUCATION =====
 http://api.oneiptv.tv/load.php?id=0
+http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,MR:Arrabiaa TV
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
 #EXTINF:-1,TR:TGRT Belgesel TV
@@ -429,6 +430,8 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,BG:NatGeo Bulg hdTV
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
+#EXTINF:0,BG:NatGeo Bg hdTV
+http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
 #EXTINF:-1,VT:NatGeo Viet sdTV
 http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1,CN:NatGeo China sdTV
@@ -439,8 +442,10 @@ https://www.fanmingming.cn/hls/natlgeo.m3u8
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1,RU:NatGeoWild Russia hdTV
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
-#EXTINF:-1,BG:NatGeoWild Bulg sdTV
+#EXTINF:-1,BG:NatGeoWild BG sdTV
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:0,BG:Animal Planet hdTV
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,HI:Animal Planet TV
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1,RU:Animal Planet TV
@@ -449,6 +454,14 @@ http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1,US:Discovery Science English
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+#EXTINF:-1,RU:DiscoveryScienceHD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:0,BG:Discovery Channel hd
+http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+#EXTINF:0,BG:ID Xtra hdTV
+http://136.243.177.164/IDXTRA/playlist.m3u8
+#EXTINF:0,BG:24 Kitchen hdTV
+http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:-1,PR:Odisseia Eng hdTV
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
 #EXTINF:-1,SP:Extremadura TV
@@ -517,6 +530,8 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1,La:Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0,GE:Agro TV
+http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
 #EXTINF:-1,La:Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1,IT:HistoryLab
@@ -569,6 +584,24 @@ http://nano.teleservice.su:8080/hls/luxury.m3u8
 https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1,RU:Sibir Nature fhTV
 http://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1,RU:Trofey TV
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:-1,RU:Brodilo TV sdTV
+http://brodilo.tv/channel.php
+#EXTINF:-1,RU:Brodilo TV hdTV
+http://brodilo.tv:80/channel.php
+#EXTINF:-1,RU:BeachCam
+http://video-auth1.iol.pt:1935/beachcam/zarautz/playlist.m3u8
+#EXTINF:-1,RU:Sibir sdTV
+https://strm.yandex.ru/kal/sibir/sibir0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,RU:Sibir hdTV
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1,RU:Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1,RU:Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_sd/playlist.m3u8
+#EXTINF:-1,UC:Здоровье ТВ
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1,US:Silence Eng TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,US:SuerYacht hdTV
@@ -583,6 +616,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 http://95.86.32.7:999/food
 #EXTINF:-1,US:Food Channel
 http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0,RO:Antena Cook and Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:-1,US:Key TV
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1,US:Beach TV
@@ -607,6 +642,8 @@ http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1,RU:DaVinci Россия
 http://89.106.234.4:80/DaVinci_34_35.m3u8
+#EXTINF:-1,RU:Mosobr TV
+http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1,KR:EBSe TV
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,KR:EBSi TV
@@ -619,31 +656,31 @@ https://playhls.media.nic.in/live/vyas/index.m3u8
 http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
 #EXTINF:-1,CZ:Natura TV
 http://media1.tvnatura.cz/live_out/1/live.m3u8
-#EXTINF:-1,La:Cultura24 TV
+#EXTINF:-1,LAT:Cultura24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
-#EXTINF:-1,La:Portal Cultura Pará
+#EXTINF:-1,LAT:Portal Cultura Pará
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1,La:Sesc TV
+#EXTINF:-1,LAT:Sesc TV
 https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist.m3u8
-#EXTINF:-1,La:TV Cultura
+#EXTINF:-1,LAT:TV Cultura
 https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/playlist.m3u8
-#EXTINF:-1,La:TV Educativa de Porto Alegre
+#EXTINF:-1,LAT:TV Educativa de Porto Alegre
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1,La:TV Faap
+#EXTINF:-1,LAT:TV Faap
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1,La:TV Mackenzie
+#EXTINF:-1,LAT:TV Mackenzie
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1,La:TV O Povo
+#EXTINF:-1,LAT:TV O Povo
 http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1,La:TV UFSC
+#EXTINF:-1,LAT:TV UFSC
 http://150.162.188.10:8080/hls/1.m3u8
-#EXTINF:-1,La:TV UNESP
+#EXTINF:-1,LAT:TV UNESP
 https://video.unesp.br/live/indoor.m3u8
-#EXTINF:-1,La:TV UNISC
+#EXTINF:-1,LAT:TV UNISC
 https://tv.unisc.br/hls/test.m3u8
-#EXTINF:-1,La:TVU Recife
+#EXTINF:-1,LAT:TVU Recife
 http://150.161.93.220/hls/1080/index.m3u8
-#EXTINF:-1,La:UniTV Porto Alegre
+#EXTINF:-1,LAT:UniTV Porto Alegre
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-ID="" tvg-name="WORLD-SPORTS-CHANNELS" tvg-logo="" group-title="WORLD-SPORTS-CHANNELS",===== WORLD-SPORTS-CHANNELS =====
 http://api.oneiptv.tv/load.php?id=0
