@@ -450,6 +450,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo?auth=zarin:RJsKR
 https://www.fanmingming.cn/hls/natlgeo.m3u8
 #EXTINF:-1,RU:NatGeo Russia hdTV
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
+#EXTINF:-1,RU:NatGeo Russia hdTV
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF:-1,RU:NatGeoWild Russia hdTV
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
 #EXTINF:-1,BG:NatGeoWild BG sdTV
@@ -460,12 +462,16 @@ http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1,RU:Animal Planet TV
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TH:World Animal hdTV
+http://203.154.243.89:1201
 #EXTINF:-1,HI:Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1,US:Discovery Science English
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 #EXTINF:-1,RU:DiscoveryScienceHD
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:0,ID:Discovery Channel hd
+http://203.150.107.30:8081/tested2iptv/core201/playlist.m3u8
 #EXTINF:0,BG:Discovery Channel hd
 http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
 #EXTINF:0,BG:ID Xtra hdTV
@@ -654,10 +660,18 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://89.106.234.4:80/DaVinci_34_35.m3u8
 #EXTINF:-1,RU:Mosobr TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1,Общественное
+https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
+#EXTINF:-1,Poehali TV
+http://89.106.234.4:80/poehali_34_35.m3u8
+#EXTINF:-1 ,История
+http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1,KR:EBSe TV
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,KR:EBSi TV
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:0,KR:YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1,TW:Edu Taiwan TV
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 #EXTINF:-1,HI:Vyas HEC TV
