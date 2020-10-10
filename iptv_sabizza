@@ -712,6 +712,10 @@ http://api.oneiptv.tv/load.php?id=0
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1,MOR:Arryadia Sport hdTV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,AR:BEIN SPORT 1
+http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
+#EXTINF:-1,US:BEIN SPORT 11
+https://mkctv.net/topcermkc/usesport.m3u8
 #EXTINF:-1,AR:Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,AR:Ad Sports 1
@@ -758,6 +762,24 @@ http://136.243.177.164/RINGBG/playlist.m3u8
 http://136.243.177.164/EUROSPORT/playlist.m3u8
 #EXTINF:0,BG:Eurosport02 hdTV
 http://136.243.177.164/EUROSPORT2/playlist.m3u8
+#EXTINF:0,PT:Sport01 TV
+http://77.54.145.209:81/play/a02v
+#EXTINF:0,PT:Sport02 TV
+http://77.54.145.209:81/play/a02j
+#EXTINF:0,PT:Sport03 TV
+http://77.54.145.209:81/play/a02n
+#EXTINF:0,PT:Sport04 TV
+http://77.54.145.209:81/play/a02o
+#EXTINF:0,PT:B hdTV
+http://77.54.145.209:81/play/a032
+#EXTINF:0,PT:Eleven Sport01 TV
+http://77.54.145.209:81/play/a00a
+#EXTINF:0,PT:Eleven Sport02 TV
+http://77.54.145.209:81/play/a03d
+#EXTINF:0,UK:BT SPORT01 TV
+http://ott-sports.ddns.net:8081/live/ts1/chunks.m3u8
+#EXTINF:0,UK:BT SPORT02 TV
+http://ott-sports.ddns.net:8081/live/ts2/chunks.m3u8
 #EXTINF:-1,DE:Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1,DE:Bayern Munchen TV
@@ -776,18 +798,6 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1,CZ:RTM+ TV!
 http://www.rtmplus.cz/live/1-playlist.m3u8
-#EXTINF:0,CZ:Arena Sport 1 HD
-https://ip2019tv.do.am/sport/Arena_Sport_1.m3u8
-#EXTINF:0,CZ:Arena Sport 2 HD
-https://ip2019tv.do.am/sport/Arena_Sport_2.m3u8
-#EXTINF:0,CZ:Arena Sport 3 HD
-https://ip2019tv.do.am/sport/Arena_Sport_3.m3u8
-#EXTINF:0,CZ:Arena Sport 4 HD
-https://ip2019tv.do.am/sport/Arena_Sport_4.m3u8
-#EXTINF:0,CZ:Arena Sport 5 HD
-https://ip2019tv.do.am/sport/Arena_Sport_5.m3u8
-#EXTINF:0,CZ:Arena Sport 6 HD
-https://ip2019tv.do.am/sport/Arena_Sport_6.m3u8
 #EXTINF:-1,BG:Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,IT:TeleArena
@@ -829,19 +839,25 @@ https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:-1,GE:UFC Sport TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:-1,GE:Rugby TV
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8 
+http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1,UC:Setanta Sport01
+http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28649?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI 
 #EXTINF:-1,UC:Setanta Sport02
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8 
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1,RU:Astrakhanrusporthd
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8  
 #EXTINF:-1,RU:Astrakhanrusporthd
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 #EXTINF:-1,RU:Sport TV
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,RU:Astrakhanrusporthd
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,RU:HDL Sport sdTV
+http://89.106.234.3:80/hdl_34_35.m3u8
+#EXTINF:-1,RU:HDL Sport hdTV
+http://37.193.6.155:34040/udp/239.1.9.2:1234
 #EXTINF:0,KK:КТРК Спорт (KG)
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:0,KK:QZ Sport TV
+https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
 #EXTINF:-1,US:Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,AU:Fox Sports News Au
@@ -946,10 +962,18 @@ https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_cha
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,HI:Sony Ten 1
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1,HI:Sony Ten 1
+https://load.airtel.tv/sonyten1hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1,HI:Sony Ten 2
+https://load.airtel.tv/sonyten2hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1,HI:Sony Ten 3
+https://load.airtel.tv/sonyten3hd/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1,HI:Sony Ten 2
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 #EXTINF:-1,HI:Sony Ten 3
-http://103.214.202.218:8081/live/ten3hd/chunks.m3u8 
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1,HI:Sony Ten 6
+http://103.214.202.218:8081/live/sonysix/chunks.m3u8 
 #EXTINF:-1,PK:PTV Sports hdTV
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PK:SonyTen Sport1 hdTV
@@ -1012,5 +1036,21 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1,LA:Fight Sports TV
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:0,CN:KOK Fights
+#EXTINF:0,CN:KOK Fight
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0,UC:UFC Fight
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:0,UC:Fight TV
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0,US:AXS Fight hdTV
+http://203.154.243.89:1422
+#EXTINF:0,US:Top Fight hdTV
+http://203.154.243.89:1421
+#EXTINF:0,TH:Amazing Show
+http://203.154.243.89:1214
+#EXTINF:0,TH:NBA TV
+http://203.154.243.89:1215
+#EXTINF:0,Sports Kool
+http://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:0,RTV Sport
+http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
