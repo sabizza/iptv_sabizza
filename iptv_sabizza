@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="MOROCCO-CHANNELS" tvg-logo="" group-title="MOROCCO-CHANNELS",===== MOROCCO-CHANNELS =====
+#EXTINF:-1 tvg-ID="" tvg-name="MOROCCO-CHANNELS" tvg-logo="" group-title="MOROCCO-CHANNELS",===== MOROCCO-CHANNELS =====*
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,MOR:AlAoula Inter TV
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
