@@ -75,7 +75,7 @@ http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1,FR:Euronews fr TV
 https://euronews-fr-p13-cdn.hexaglobe.net/b4e51b9ccf718478f08c07c226e700bb/5f89850d/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_480p.m3u8
-#EXTINF:-1,UK:Euronews Eng TV
+#EXTINF:-1,UK:Euronews uk TV
 https://euronews-en-p9-cdn.hexaglobe.net/4e861b3324bdeb3dc038b8c1d63a6df4/5f89aaf8/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8
 #EXTINF:-1,FR:LCP TV
 https://stream-01.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbBspVBT7iARdjjQACO5Rb7o)/dm/3/xji3qy/d/live-2.m3u8
