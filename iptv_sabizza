@@ -517,6 +517,8 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TH:World Animal hdTV
 http://203.154.243.89:1201
+#EXTINF:-1,BG:Viasat Nature TV
+https://a2n.tvizio.bg/liveedge/nature_ff_mid.stream/chunklist_w2077122713_DVR.m3u8?71210&cm2munqcdpt7bncfh53astbqg5&25&tvz
 #EXTINF:-1,HI:Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1,US:Discovery Science English
@@ -625,6 +627,12 @@ http://89.38.8.131:39519
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,BG:Travel BulguariaTV
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,BG:Travel Channel
+https://a5n.tvizio.bg/liveedge/travel_ff_mid.stream/chunklist_w285678609_DVR.m3u8?71210&cm2munqcdpt7bncfh53astbqg5&16&tvz
+#EXTINF:-1,BG:Diema Family TV
+https://a6n.tvizio.bg/liveedge/diemafamily_ff_mid.stream/chunklist_w1795170285_DVR.m3u8?71210&cm2munqcdpt7bncfh53astbqg5&2&tvz
+#EXTINF:-1,BG:BNT1 hdTV
+https://a0n.tvizio.bg/liveedge/bnt1hd_ff_high.stream/chunklist_w1687401395_DVR.m3u8?71210&cm2munqcdpt7bncfh53astbqg5&87&tvz
 #EXTINF:-1,LA:TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1,CN:China Travel TV
@@ -679,6 +687,8 @@ http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1,US:SuerYacht hdTV
 http://12858.cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:-1,FR:SuperYatch hdTV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1,US:Chef Champion TV
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 #EXTINF:-1,US:CookingOutDour TV
