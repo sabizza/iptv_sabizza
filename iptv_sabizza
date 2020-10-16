@@ -263,6 +263,10 @@ https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
 http://51.15.3.161:8080/boing/index.m3u8?token=test
 #EXTINF:-1,FR:CN fr TV
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1,FR:Teletoon++ TV
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:-1,CA:CouCou frTV
+https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/profile_1/chunklist.m3u8
 #EXTINF:-1,FR:Gong TV
 http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 #EXTINF:-1,FR:Gong Max TV
@@ -273,8 +277,6 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 http://51.15.3.161:8080/Gulli/index.m3u8?token=test
 #EXTINF:-1,FR:Piwi TV
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
-#EXTINF:-1,FR:Teletoon++ TV
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1,TR:TRT Çocuk TV
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TR:Minika Çocuk TV 
@@ -291,14 +293,20 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunkl
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1,UK:BBC CBeebies TV
 http://51.52.156.22:8888/http/003
+#EXTINF:-1,UK:BBC CBeebies TV*
+https://edge-823-ch-gv.filmon.com/live/29.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d343a204942d7a6622f91a5402c513290e2615b01f07747c8f33ed76c9dfa6b69e0abb9b4789a7a17d47666ecbb062f19ee8bb4f2ce940c6ee98781ab2f7350e2828bb43947f2f0da13a6e6e87779dd446291d0007c1b7b8b2ed5f7800114b4abdef530882c601b5e160c244929dac34c47abb02696ab6f7bd
 #EXTINF:-1,UK:POP UK TV
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 #EXTINF:-1,UK:POP Max TV
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1,UK:Tiny Pop TV
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1,UK:Little Be TV
+https://edge-823-ch-gv.filmon.com/live/3211.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3caa72eb4d3f52f4c73f9880cba3fd74a606ec1c90e984b613f6d5e6217841826064f1bea3d5c92ff8dfeb9bea1330aea0a53930f06f51db45653f4e288dcc4af2d03ccd078e21b0a43109905a7e83a351ae8a7ba7af2d57f68cbb02bf92e25fd3b67fec759232008284a959c08877825e156c9977005037c
 #EXTINF:-1,UK:Learnings English Kids TV
 http://210.210.155.35/uq2663/h/h97/index.m3u8
+#EXTINF:-1,UK:3BTV Game TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/index-v1-a1.m3u8
 #EXTINF:-1,UK:TCT Kids TV
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1,BE:Kenet Kids TV
@@ -353,6 +361,8 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1,LAT:Gospel Cartoon
 https://StmV1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist-480p.m3u8?
+#EXTINF:-1,LAT:TeleSur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,LAT:WoW sdTV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 #EXTINF:-1,LAT:WoW hdTV
@@ -381,6 +391,8 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 #EXTINF:-1,RU:Nicklodeon TV
 http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RU:Barbariki TV
+http://live.planeta-online.tv:1935/public/smil:channel_6.smil/chunklist_w380407942_b858000_tkd3RlbmR0aW1lPTE2MDI2MjczNDAmd3RoYXNoPXpnYi1tUlhFVVd6LWxDd2ppRmpCZWpvN3J2bEVFWTJHaXphSEhhQWZSNlE9.m3u8
 #EXTINF:-1,UC:Малятко ТВ
 http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,UC:Malyatko TV
