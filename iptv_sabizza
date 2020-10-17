@@ -805,6 +805,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m
 http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
 #EXTINF:-1,US:BEIN SPORT 11
 https://mkctv.net/topcermkc/usesport.m3u8
+#EXTINF:-1,SP:BEIN SPORT 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1,AR:Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,AR:Ad Sports 1
@@ -835,10 +837,10 @@ https://tinyurl.com/BienSportExtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:-1,US:BienSport Extrat**
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
-#EXTINF:-1,US:BienSport Extrat+
-https://tinyurl.com/BienSpEx
 #EXTINF:-1,FR:RMC Sport2 TV
 http://185.132.133.18:8080/rmcsport2/tracks-v1a1/mono.m3u8
+EXTINF:-1,FR:TVPI Sport
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w101731715.m3u8
 #EXTINF:0,BG:DIEMA SPORT HD
 http://136.243.177.164/DIEMASPORT/playlist.m3u8
 #EXTINF:0,BG:DIEMA SPORT 2 HD
@@ -855,8 +857,14 @@ http://136.243.177.164/MAXSPORT4/playlist.m3u8
 http://136.243.177.164/RINGBG/playlist.m3u8
 #EXTINF:0,BG:Eurosport01 hdTV
 http://136.243.177.164/EUROSPORT/playlist.m3u8
+#EXTINF:0,SP:Eurosport 1 sdTV
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:0,BG:Eurosport02 hdTV
 http://136.243.177.164/EUROSPORT2/playlist.m3u8
+#EXTINF:0,BG:Eurosport 2 България
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:0,BG:Nova Sports TV
+https://cdn1.mobiletv.bg/T7/novasport/ns_794613_850k.m3u8
 #EXTINF:0,PT:Sport01 TV
 http://77.54.145.209:81/play/a02v
 #EXTINF:0,PT:Sport02 TV
@@ -891,10 +899,10 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:0,SP:Esport Club
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1,CZ:RTM+ TV!
-http://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1,BG:Automoto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,BG:AutoMotor Sport TV
+https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 #EXTINF:-1,IT:TeleArena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8 
 #EXTINF:-1,TR:Beyaz Sport TV
@@ -905,6 +913,8 @@ http://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 http://46.105.233.106:8484/ntvspor.ts
 #EXTINF:-1,TR:NTV Sport TV
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,TR:TRT Sport02 hdTV
+http://iptvmasterlink.dyndns.org:8080/Entry/trtspor2hd_yeni/playlist.m3u8
 #EXTINF:-1,IR:Varzesh Sport01 TV
 http://51.158.66.44/hls/stream.m3u8  
 #EXTINF:-1,IR:Varzesh Sport03 TV!
@@ -967,14 +977,14 @@ http://45.58.62.92:8080
 http://45.58.62.92:8080
 #EXTINF:-1,US:FOX SPORTS 1
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28675?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1,US:FOX SPORTS 1+
-https://tinyurl.com/FoxSport01
 #EXTINF:-1,US:FOX SPORTS 2
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,US:FOX SPORTS 3
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,US:MLB Network Cricket
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+EXTINF:-1,US:MLB TV*
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20201009_1602250690166/2400K/2400_slide.m3u8
 #EXTINF:-1,US:MotorSport TV
 http://45.58.62.92:8084
 #EXTINF:-1,US:SportMax TV
@@ -1031,6 +1041,8 @@ https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:0,LAT:ALL Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+EXTINF:-1,LAT:CDO Sport TV
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
 #EXTINF:-1,CN:SportCast TV
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1,CN:Newtv sports China
@@ -1096,11 +1108,71 @@ http://ip2121.com:8081/at1/ENG1/playlist.m3u8
 #EXTINF:-1,ID:PremieLeague2
 http://ip2121.com:8081/at1/ENG2/playlist.m3u8
 #EXTINF:-1,ID:PremieLeague3
-http://ip2121.com:8081/at1/ENG3/playlist.m3u8 
+http://ip2121.com:8081/at1/ENG3/playlist.m3u8
+EXTINF:-1,ID:Astro sport 1
+http://89.248.174.8:8088/o4PDhkPGJw/dRzVuHbb8I/40598?token=QhVcUhcJRggXUwZfVgcHAwIDUANSX1BaB1cGAANXAQcPAlULUlAFVgZGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QA1cFXgRVEhhDQl9eBEReUlBdDVBeVlRXABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+EXTINF:-1,ID:Astro sport 2
+http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40599?token=QhVcUhcJRggXXAVSCwJSBFgBAgQDAFAHUFJQWQJRAFIJVQwHAVkHUFRGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QAVIGUQVTEhhDQl9eBEReUlBdB1ZWUFFUDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFAbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+EXTINF:-1,ID:Astro sport 3
+http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40600?token=QhVcUhcJRggXXAVSCwJSBFgBAgQDAFAHUFJQWQJRAFIJVQwHAVkHUFRGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QAVIGUQVTEhhDQl9eBEReUlBdB1ZWUFFUDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFAbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+EXTINF:-1,ID:Astro sport 4
+http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40601?token=QhVcUhcJRggXXAVSCwJSBFgBAgQDAFAHUFJQWQJRAFIJVQwHAVkHUFRGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QAVIGUQVTEhhDQl9eBEReUlBdB1ZWUFFUDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFAbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI 
 #EXTINF:-1,TH:Arhat Sport TV
 http://arhat.tv/public/360p/index.m3u8
+#EXTINF:0,TH:PremierHD1
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,TH:PremierHD2
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0,TH:PremierHD3
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0,TH:PremierHD4
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0,TH:PremierHD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0,TH:SkynetsportHD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0,TH:Bein1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0,TH:Bein2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0,TH:True Sport HD1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,TH:True Sport HD2
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,TH:True Sport HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,TH:True Sport HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0,TH:Fox Sport1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0,TH:Fox Sport2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0,TH:Fox Sport3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0,TH:Tennis HD
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0,TH:NBA HD
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0,TH:Golf HD
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0,TH:T Sport TV
+https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:-1,TH:Doball 1
+http://stream.doball.com:8080/hls/ch1.m3u8?feed
+#EXTINF:-1,TH:Doball 2
+http://stream.doball.com:8080/hls/ch2.m3u8?feed
+#EXTINF:-1,TH:Doball 3
+http://stream.doball.com:8080/hls/ch3.m3u8?feed
+#EXTINF:-1,TH:Doball 4
+http://stream.doball.com:8080/hls/ch4.m3u8?feed
+#EXTINF:-1,TH:Doball 5
+http://stream.doball.com:8080/hls/ch5.m3u8?feed
 #EXTINF:-1,TH:PPTV!
-http://183.182.100.184/live/pptvthai/playlist.m3u8 
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:0,TH:Amazing Show
+http://203.154.243.89:1214
+#EXTINF:0,TH:NBA TV
+http://203.154.243.89:1215 
 #EXTINF:-1,US:TENNIS TV
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
 #EXTINF:-1,FR:Tennis Channel
@@ -1113,6 +1185,12 @@ https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e647
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1,JP:ATP Tennis TV
 http://203.154.243.89:11739
+#EXTINF:-1,Tennis1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,Tennis2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1,Tennis3
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 #EXTINF:-1,PK:OneGolf TV
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1,JP:Golf Network
@@ -1128,7 +1206,9 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:0,AU:ATG Racing
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1,LA:Monterrico Racing TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8 
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1,LA:Racing hor
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8 
 #EXTINF:-1,SP:Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8 
 #EXTINF:-1,US:Fight Plus
@@ -1137,6 +1217,8 @@ https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,US:FightTime HD TV
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,US:WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1,LA:Fight Sports TV
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:0,LT:KOK Fight
@@ -1149,10 +1231,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 http://203.154.243.89:1422
 #EXTINF:0,US:Top Fight hdTV
 http://203.154.243.89:1421
-#EXTINF:0,TH:Amazing Show
-http://203.154.243.89:1214
-#EXTINF:0,TH:NBA TV
-http://203.154.243.89:1215
 #EXTINF:0,Sports Kool
 http://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:0,RTV Sport
