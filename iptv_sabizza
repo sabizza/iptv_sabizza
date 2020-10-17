@@ -969,10 +969,16 @@ https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,AU:Fox Sports News Au
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1,US:FOX Sport TV*
+#EXTINF:-1,US:FOX Sport506 TV
 http://45.58.62.92:8083
 #EXTINF:-1,US:FOX Sport01 TV
 http://45.58.62.92:8080
+#EXTINF:-1,US:LiveMotorSport1 
+http://45.58.62.92:8084
+#EXTINF:-1,US:LiveMotorSport2
+http://45.58.62.92:8082
+#EXTINF:-1,US:LiveMotorSport3
+http://45.58.62.92:8083
 #EXTINF:-1,US:FoxSports 503 hdTV
 http://45.58.62.92:8080
 #EXTINF:-1,US:FOX SPORTS 1
@@ -983,7 +989,7 @@ http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&tok
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,US:MLB Network Cricket
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-EXTINF:-1,US:MLB TV*
+EXTINF:-1,US:MLB TV
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Friday_20201009_1602250690166/2400K/2400_slide.m3u8
 #EXTINF:-1,US:MotorSport TV
 http://45.58.62.92:8084
@@ -1119,19 +1125,21 @@ EXTINF:-1,ID:Astro sport 4
 http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40601?token=QhVcUhcJRggXXAVSCwJSBFgBAgQDAFAHUFJQWQJRAFIJVQwHAVkHUFRGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QAVIGUQVTEhhDQl9eBEReUlBdB1ZWUFFUDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFAbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI 
 #EXTINF:-1,TH:Arhat Sport TV
 http://arhat.tv/public/360p/index.m3u8
-#EXTINF:0,TH:PremierHD1 TV
+#EXTINF:0,TH:PremierHD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0,TH:PremierHD2 TV
+#EXTINF:0,TH:PremierHD2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0,TH:PremierHD3 TV
+#EXTINF:0,TH:PremierHD3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0,TH:PremierHD4 TV
+#EXTINF:0,TH:PremierHD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0,TH:PremierHD5 TV
+#EXTINF:0,TH:PremierHD5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:0,TH:Bein1 Eng TV
+#EXTINF:0,TH:SkynetsportHD
+https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0,TH:Bein1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:0,TH:Bein2 Eng TV
+#EXTINF:0,TH:Bein2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:0,TH:True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
@@ -1197,6 +1205,8 @@ http://203.162.235.41:16924
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 #EXTINF:-1,AR:Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,AR:Dubai Racing TV1
+http://dmisvt
 #EXTINF:-1,NZ:Racing NZ TV
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:0,AU:ATG Racing
