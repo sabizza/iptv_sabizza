@@ -67,6 +67,8 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1,FR:CNews hdTV
 https://stream-06.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gb_1pysvwFD3XHb8Rp0tpn4)/dm/3/x3b68jn/d/live-2.m3u8
+#EXTINF:-1,FR:CNews
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
 #EXTINF:-1,FR:LCI fhTV
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 #EXTINF:-1,FR:RT France TV
@@ -79,10 +81,12 @@ https://euronews-fr-p13-cdn.hexaglobe.net/b4e51b9ccf718478f08c07c226e700bb/5f898
 https://euronews-en-p9-cdn.hexaglobe.net/4e861b3324bdeb3dc038b8c1d63a6df4/5f89aaf8/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8
 #EXTINF:-1,FR:LCP TV
 https://stream-01.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbBspVBT7iARdjjQACO5Rb7o)/dm/3/xji3qy/d/live-2.m3u8
+#EXTINF:-1,FR:Public Sénat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
+#EXTINF:0,BE:LN24 hdTV
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
-#EXTINF:0,BE:LN24 hdTV
-http://iptvh.it/LN24
 #EXTINF:-1,CA:ICI RDI fra hdTV
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,CA:CPAC Fra TV
@@ -103,8 +107,12 @@ https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8?fluxustv.m3u8
 http://wma07.fluidstream.net:1935/TeleArena/livestream/chunklist_w1305737919.m3u8
 #EXTINF:-1,IT:TR24
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,MT:Smash 7 News
+http://s3.smashmalta.com:82/live/smash/smash/29.ts
 #EXTINF:-1,RO:News24 Balkan TV
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,PL:TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1,GK:Boyah TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1,TR:TRT World Eng TV
@@ -197,6 +205,8 @@ http://85.132.81.184:8080/arb24/live1/index.m3u8
 http://cf.moskvatv.com/live/hayastantv/xMNgKcnp3x/6.m3u8
 #EXTINF:-1,KK:КТРК Ала-Тоо 24
 http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
+#EXTINF:-1,AL:ABC News TV
+http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 #EXTINF:-1,AL:News 24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,AL:Al Jazeera Balkans
@@ -251,6 +261,8 @@ http://167.99.65.12:1935/live/myStream/playlist.m3u8
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
 #EXTINF:-1,AU:Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:-1,AU:ABC News Channel
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.m3u8
 #EXTINF:-1,AU:ABC News Channel
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 #EXTINF:-1 tvg-ID="" tvg-name="WORLD-KIDS-CHANNELS" tvg-logo="" group-title="WORLD-KIDS-CHANNELS",===== WORLD-KIDS-CHANNELS =====
@@ -481,6 +493,16 @@ https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1,FR:Monde du loisir Tv
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w1265440117_b2000000_t64SGlnaA==.m3u8
+#EXTINF:-1,VodKid:Mister Bean
+https://e.top4top.io/m_14780yajy3.mp4
+#EXTINF:-1,VodKid:Madagaskar (2005) HR Sink
+http://movie.bossna-caffe.com/CrtaniAdmin/8726.avi
+#EXTINF:-1,VodKid:obinson Crusoe (2016) HR Sink
+http://movie.bossna-caffe.com/CrtaniAdmin/8653.avi
+#EXTINF:-1,VodKid:Spašavanje Djeda Mraza (2014) HR Sink.
+http://movie.bossna-caffe.com/CrtaniAdmin/8662.avi
+#EXTINF:-1,VodKid:The Little Mermaid
+http://movie.bossna-caffe.com/CrtaniAdmin/8728.avi
 #EXTINF:-1,VodKid:Mister Bean
 https://e.top4top.io/m_14780yajy3.mp4
 #EXTINF:-1,VodKids:MR BEAN01
@@ -723,6 +745,12 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1,GE:Food TV
 http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
+#EXTINF:-1,MT:Smash Food
+http://s3.smashmalta.com:82/live/smash/smash/15.ts
+#EXTINF:-1,UK:Travel Cooking
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/chunklist_w1119650741.m3u8
+#EXTINF:-1,CN:Good Cooking TV
+http://live.streamingfast.net/osmflivech13.m3u8
 #EXTINF:0,RO:Antena Cook and Play
 https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0,TR:TLC TV
@@ -735,6 +763,8 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1,CA:Better Nature TV
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1,DE:Luxe Eng TV
+http://58.26.3.54/PLTV/88888888/224/3221226265/02.m3u8
 #EXTINF:-1,CA:Savoir TV
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1,La:Red Advenir TV
@@ -749,6 +779,8 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 #EXTINF:-1,US:Leominster Edu TV
 http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,US:Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1,US:FailArmy TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,US:GreenSboro TV
@@ -769,6 +801,8 @@ http://89.106.234.3:80/hdl_34_35.m3u8
 http://37.193.6.155:34040/udp/239.1.9.2:1234
 #EXTINF:-1,RU:Mosobr TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1,RU:TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8 
 #EXTINF:-1,RU:Общественное
 https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
 #EXTINF:-1,RU:Poehali TV
@@ -795,6 +829,8 @@ http://rsdt-waw701-229.tvp.pl/token/video/live/34414171/20201013/3294213119/858f
 http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,CZ:Natura TV
 http://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF:-1,SP:Be Mad
+http://cdn2.interlibre.net/hls/102/index.m3u8
 #EXTINF:-1,LAT:Cultura24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
 #EXTINF:-1,LAT:Portal Cultura Pará
@@ -821,8 +857,18 @@ https://tv.unisc.br/hls/test.m3u8
 http://150.161.93.220/hls/1080/index.m3u8
 #EXTINF:-1,LAT:UniTV Porto Alegre
 http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1,Filopoli TV
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1,Alfa tv
+https://693a74ecd6a048f2a460cc38c2259994.dlvr1.net/live/_definst_/alfatv/amlst:alfatv.amlst/playlist.m3u8?organizationId=4507452&suiteItemId=4515276
+#EXTINF:-1,GR:Axeloos
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1,Wine Channel (itl)
+http://212.43.97.35:1935/winechannel/winechannel/chunklist_w693696609.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="WORLD-SPORTS-CHANNELS" tvg-logo="" group-title="WORLD-SPORTS-CHANNELS",===== WORLD-SPORTS-CHANNELS =====
 http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,MOR:Arryadia Sport sdTV
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1,MOR:Arryadia Sport hdTV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1,AR:BEIN SPORT 1
@@ -951,6 +997,8 @@ http://51.15.236.137/hls/stream.m3u8
 http://85.132.53.55/azerbaijan/idmanhd/playlist.m3u8
 #EXTINF:-1,AZ:CBC Sport TV
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,AZ:CBC Sport TV
+http://nl.iptv.monster/play/434/BFD497676FE112D/video.m3u8
 #EXTINF:-1,KZ:КТРК Спорт
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 #EXTINF:-1,TKM:Türkmen Sport
