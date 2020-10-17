@@ -283,6 +283,8 @@ http://51.15.3.161:8080/Gulli/index.m3u8?token=test
 http://51.15.3.161:8080/Piwi/index.m3u8?token=test
 #EXTINF:-1,TR:TRT Çocuk TV
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TR:TRT Çocuk hdTV
+http://iptvmasterlink.dyndns.org:8080/Entry/trtcocukhd_yeni/playlist.m3u8
 #EXTINF:-1,TR:Minika Çocuk TV 
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
 #EXTINF:-1,IR:GEM Kids TV
@@ -309,6 +311,8 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 https://edge-823-ch-gv.filmon.com/live/3211.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3caa72eb4d3f52f4c73f9880cba3fd74a606ec1c90e984b613f6d5e6217841826064f1bea3d5c92ff8dfeb9bea1330aea0a53930f06f51db45653f4e288dcc4af2d03ccd078e21b0a43109905a7e83a351ae8a7ba7af2d57f68cbb02bf92e25fd3b67fec759232008284a959c08877825e156c9977005037c
 #EXTINF:-1,UK:Learnings English Kids TV
 http://210.210.155.35/uq2663/h/h97/index.m3u8
+#EXTINF:-1,UK:Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1,UK:3BTV Game TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/index-v1-a1.m3u8
 #EXTINF:-1,UK:TCT Kids TV
@@ -469,8 +473,16 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1,TH:CartoonClub TV
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w318672.m3u8
+#EXTINF:-1,TH:CN hdTV
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,TH:DisneyXD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,ID:Astro Cartoon
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1,FR:Monde du loisir Tv
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w1265440117_b2000000_t64SGlnaA==.m3u8
+#EXTINF:-1,VodKid:Mister Bean
+https://e.top4top.io/m_14780yajy3.mp4
 #EXTINF:-1,VodKids:MR BEAN01
 https://i.top4top.io/m_1479evu575.mp4
 #EXTINF:-1,VodKids:MR BEAN02
