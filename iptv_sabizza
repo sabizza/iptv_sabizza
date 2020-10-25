@@ -565,8 +565,8 @@ https://www.fanmingming.cn/hls/natlgeo.m3u8
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1,RU:NatGeo Russia hdTV
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-#EXTINF:-1,RU:NatGeoWild Russia hdTV
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
+#EXTINF:-1,RU:NatGeoWild Russia sdTV
+http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
 #EXTINF:-1,BG:NatGeoWild BG sdTV
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:0,BG:Animal Planet hdTV
@@ -577,30 +577,30 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TH:World Animal hdTV
 http://203.154.243.89:1201
-#EXTINF:0,HISTORY HD
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:0,H2 HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:0,DiscoveryChannel
-https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:0,DiscoveryHDWorld
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:0,AnimalPlanet
+#EXTINF:0,TH:AnimalPlanet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:0,Sumrujlok
+#EXTINF:0,TH:History hdTV
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0,TH:History2 hdTV
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0,TH:DiscoveryChannel
+https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0,TH:DiscoveryWorld Asia
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0,TH:Sumrujlok TV
 https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
 #EXTINF:-1,HI:Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF:-1,US:Discovery Science English
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-#EXTINF:-1,RU:DiscoveryScienceHD
-http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1,RU:DiscoveryShowse EngTV
+http://185.22.183.157:8085/media/hls_183_157/discov_showcasehd/index.m3u8
+#EXTINF:-1,RU:Discovery Channel
+http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
 #EXTINF:0,FR:Discovery Channel hd
 http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
 #EXTINF:0,BG:ID Xtra hdTV
 http://136.243.177.164/IDXTRA/playlist.m3u8
-#EXTINF:0,BG:24 Kitchen hdTV
-http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:-1,PR:Odisseia Eng hdTV
 http://51.15.3.161:8080/odessa/index.m3u8?token=test
 #EXTINF:-1,SP:Extremadura TV
@@ -647,6 +647,8 @@ http://5.135.92.133:52841/out/u/498_1.m3u8
 http://163.172.174.60/hls/stream.m3u8
 #EXTINF:-1,RU:Viasat Explore
 http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1,UC:MS TV
+http://213.174.23.59:8080/MS
 #EXTINF:-1,RU:RT Documentary
 https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,RU:RT Documentary hdTV
@@ -711,6 +713,8 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1,UC:Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,RU:RTG TV
+http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1,RU:Travel & Adventure TV
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,RU:Diving TV
@@ -757,6 +761,8 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 http://12858.cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 #EXTINF:-1,FR:SuperYatch hdTV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:0,BG:24 Kitchen hdTV
+http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:-1,US:Chef Champion TV
 https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
 #EXTINF:-1,US:CookingOutDour TV
@@ -821,9 +827,9 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
 #EXTINF:-1,RU:DaVinci Россия
 http://89.106.234.4:80/DaVinci_34_35.m3u8
-#EXTINF:-1,RU:HDL Sport sdTV
+#EXTINF:-1,RU:HDL sdTV
 http://89.106.234.3:80/hdl_34_35.m3u8
-#EXTINF:-1,RU:HDL Sport hdTV
+#EXTINF:-1,RU:HDL hdTV
 http://37.193.6.155:34040/udp/239.1.9.2:1234
 #EXTINF:-1,RU:Mosobr TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
@@ -835,6 +841,8 @@ https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
 http://89.106.234.4:80/poehali_34_35.m3u8
 #EXTINF:-1,RU:История
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
+#EXTINF:-1,RU:Telekafe
+http://185.22.183.150:8085/media/hls_183_150/telekafe/index.m3u8
 #EXTINF:-1,KR:EBSe TV
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,KR:EBSi TV
