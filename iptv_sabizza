@@ -439,6 +439,14 @@ http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RU:Barbariki TV
 http://live.planeta-online.tv:1935/public/smil:channel_6.smil/chunklist_w380407942_b858000_tkd3RlbmR0aW1lPTE2MDI2MjczNDAmd3RoYXNoPXpnYi1tUlhFVVd6LWxDd2ppRmpCZWpvN3J2bEVFWTJHaXphSEhhQWZSNlE9.m3u8
+#EXTINF:-1,RU:Рыжий ryzhiy TV
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,RU:Multimania TV
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1,RU:JimJam TV
+http://185.22.183.147:8085/media/hls_183_147/jimjam_hq/index.m3u8
+#EXTINF:-1,RU:Смайлик ТВ hdTV
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1,UC:Малятко ТВ
 http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,UC:Malyatko TV
@@ -515,6 +523,8 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
 #EXTINF:-1,TH:DisneyXD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1,TH:Boomerang TV
+http://27.254.130.56:80/live01/ch18.m3u8
 #EXTINF:-1,ID:Astro Cartoon
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1,FR:Monde du loisir Tv
