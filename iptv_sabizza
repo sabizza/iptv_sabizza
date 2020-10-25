@@ -47,6 +47,8 @@ http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147
 https://av.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:-1,TR:TRT Arabic TV
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,TR:NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,DE:DW Arabic TV
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1,TR:A Haber TV
@@ -143,10 +145,24 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:-1,US:ABC News hdTV
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,US:ABC News TV
+https://content-ausc4.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/c.m3u8?pbs=21b0299fae57459bb057d32ee3e7a71c
 #EXTINF:-1,US:CBS News TV
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1,US:NBC News TV
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1,US:CNN News TV
+https://1861340594.rsc.cdn77.org/V3y-EIHW7G2XZxSk5lA6WQ==,1603669838/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,US:CBN News Now TV
+https://1359547862.rsc.cdn77.org/zvIcZPVSSGLnR11nzgouQg==,1603672513/LS-ATL-54548-8/tracks-v4a1/mono.m3u8
+#EXTINF:-1,US:Fox News TV
+https://1028107998.rsc.cdn77.org/Bqxit-A9D44iQ_E_1dDnBA==,1603668361/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,US:CBNC TV
+https://1674331492.rsc.cdn77.org/wYvIR31BLTwHtaTVHIILzQ==,1603671440/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1,US:MSNBC TV
+https://1420543146.rsc.cdn77.org/MIdNf0Aq_woQ5CrgwFiLkg==,1603669838/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1,US:HLN TV
+https://1161275585.rsc.cdn77.org/EwI5q4vAKUGdKv4SVUYbZg==,1603671941/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1,US:C-Spain1 TV
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
 #EXTINF:-1,US:C-Spain2 TV
@@ -173,12 +189,10 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
 http://liveingesta118.cdnmedia.tv//cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
 #EXTINF:-1,BR:Metrópole News TV 
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
-#EXTINF:-1,RU:RT America TV
-http://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1,BR:TV Guará
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
 #EXTINF:-1,RU:RT News TV
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1,RU:RT UK TV
-http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1,RU:RT Espanol TV
 http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1,RU:Mir24 TV
@@ -187,12 +201,16 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
 #EXTINF:-1,RU:Rossia24 TV
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,RU:Méteo TV
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
 #EXTINF:-1,UC:100% News UA
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1,UC:24 канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1,GE:Palitra News
 http://tv.cdn.xsg.ge/palitra/playlist.m3u8
+#EXTINF:-1,GE:Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1,GE:TV 24 News
 http://tv.cdn.xsg.ge/tv24/playlist.m3u8
 #EXTINF:-1,KZ:Хабар 24
@@ -211,16 +229,26 @@ http://176.31.74.164:8081/abcnewslive/abcnews/playlist.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1,AL:Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1,RO:News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,IR:Iran News International 
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1,HI:Media One
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
 #EXTINF:-1,HI:DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1,PK:Lahore News TV
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+#EXTINF:-1,PK:Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 #EXTINF:-1,AF:Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1,CN:CGTN Esp TV
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,CN:SET TV
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1,CN:FTV News
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1,CN:CH5 HK TV*
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1,JP:NHK Chinese Vision
@@ -261,8 +289,6 @@ http://167.99.65.12:1935/live/myStream/playlist.m3u8
 http://vietnews.saigon.ns01.us:1935/VietNews/myStream/playlist.m3u8
 #EXTINF:-1,AU:Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-#EXTINF:-1,AU:ABC News Channel
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.m3u8
 #EXTINF:-1,AU:ABC News Channel
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 #EXTINF:-1 tvg-ID="" tvg-name="WORLD-KIDS-CHANNELS" tvg-logo="" group-title="WORLD-KIDS-CHANNELS",===== WORLD-KIDS-CHANNELS =====
