@@ -319,10 +319,36 @@ http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
 #EXTINF:-1,FR:Gong Max TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1,FR:Gulli TV
-http://51.15.3.161:8080/Gulli/index.m3u8?token=test
-#EXTINF:-1,FR:Piwi TV
-http://51.15.3.161:8080/Piwi/index.m3u8?token=test
+#EXTINF:-1,SP:BABY TV
+http://37.220.108.4:8001/play/a060
+#EXTINF:-1,SP:CANAL PANDA
+http://37.220.108.4:8001/play/a09x
+#EXTINF:-1,SP:BOING TV
+http://37.220.108.4:8001/play/a062
+#EXTINF:-1,SP:DISNEY CH HD
+http://37.220.108.4:8001/play/a08d
+#EXTINF:-1,SP:DISNEY CH.
+http://37.220.108.4:8001/play/a09w
+#EXTINF:-1,SP:Disney+
+http://37.220.108.4:8001/play/a09r
+#EXTINF:-1,SP:DISNEY JR
+http://37.220.108.4:8001/play/a098
+#EXTINF:-1,SP:NICK JR
+http://37.220.108.4:8001/play/a06k
+#EXTINF:-1,SP:NICKELODEON SD
+http://37.220.108.4:8001/play/a08l
+#EXTINF:-1,SP:NICKELODEON HD
+http://37.220.108.4:8001/play/a07j
+#EXTINF:-1,DISNEY CH HD
+http://152.89.35.254:8000/play/a00u/index.m3u8
+#EXTINF:-1,DISNEY JR
+http://152.89.35.254:8000/play/a01b/index.m3u8
+#EXTINF:-1,DE:Disney Channel
+http://176.10.117.3:5000/play/a038
+#EXTINF:-1,DE:Nick CH HD
+http://176.10.117.3:5000/play/a039
+#EXTINF:-1,DE:NICKELODEON AT
+http://83.164.148.178:8888/play/a01m
 #EXTINF:-1,TR:TRT Çocuk TV
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TR:TRT Çocuk hdTV
@@ -349,6 +375,20 @@ https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1,UK:Tiny Pop TV
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1,POP TV
+http://92.246.85.106:8000/play/a04o/index.m3u8
+#EXTINF:-1,UK:POP
+http://92.246.85.74:8000/play/a0l1
+#EXTINF:-1,UK:POP+1
+http://92.246.85.74:8000/play/a0l7
+#EXTINF:-1,POP Max
+http://92.246.85.106:8000/play/a04p/index.m3u8
+#EXTINF:-1,UK:POP Max
+http://92.246.85.74:8000/play/a0l3
+#EXTINF:-1,UK:POP Max+1
+http://92.246.85.74:8000/play/a0l5
+#EXTINF:-1,UK:Tiny Pop
+http://92.246.85.106:8000/play/a04n/index.m3u8
 #EXTINF:-1,UK:Little Be TV
 https://edge-823-ch-gv.filmon.com/live/3211.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3caa72eb4d3f52f4c73f9880cba3fd74a606ec1c90e984b613f6d5e6217841826064f1bea3d5c92ff8dfeb9bea1330aea0a53930f06f51db45653f4e288dcc4af2d03ccd078e21b0a43109905a7e83a351ae8a7ba7af2d57f68cbb02bf92e25fd3b67fec759232008284a959c08877825e156c9977005037c
 #EXTINF:-1,UK:Learnings English Kids TV
@@ -379,6 +419,8 @@ https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
 https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 #EXTINF:-1,BG:NICKELODEON GER
 http://136.243.177.164/NICKELODEON/playlist.m3u8
+#EXTINF:-1,Pebble TV
+http://83.128.58.176:9981/play/a0aq
 #EXTINF:-1,US:3ABN Kids TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1,US:Boomerang TV
@@ -451,6 +493,8 @@ http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 http://185.22.183.147:8085/media/hls_183_147/jimjam_hq/index.m3u8
 #EXTINF:-1,RU:Смайлик ТВ hdTV
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,GE:ԲԱԶՄՈՑ TV
+http://212.42.193.122:8888/play/a008/index.m3u8
 #EXTINF:-1,UC:Малятко ТВ
 http://api.tv.ipnet.ua:80/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1,UC:Malyatko TV
@@ -459,12 +503,30 @@ http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 http://stream.atr.ua/lale/live/index.m3u8
 #EXTINF:-1,HI:Akaram TV
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,HI:Sun1 Kids TV
+http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=26567&e=.m3u8
+#EXTINF:-1,HI:Sun2 Kids TV
+http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=26571&e=.m3u8
+#EXTINF:-1,HI:Sun3 Kids TV
+http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=26573&e=.m3u8
+#EXTINF:-1,HI:Sun4 Kids TV
+http://mhdtvstreams.in.net/sunnxt/sunnxt.php?id=26577&e=.m3u8
+#EXTINF:-1,HI:CARTOON-Rs4.25
+http://182.176.93.225:8000/play/a01k
 #EXTINF:-1,HI:Animax TV
 http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
 #EXTINF:-1,HI:Disney Channel
 http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 #EXTINF:-1,HI:Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:-1,HI:DISCOVERY K-Rs3
+http://182.176.93.225:8000/play/a01r
+#EXTINF:-1,HI:Nick - Rs 6
+http://182.176.93.225:8000/play/a027
+#EXTINF:-1,HI:Nick Jr. - Rs1
+http://182.176.93.225:8000/play/a01q
+#EXTINF:-1,HI:Disney Jr.-Rs 4
+http://182.176.93.225:8000/play/a01n
 #EXTINF:-1,HI:IBC Kids TV
 https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
 #EXTINF:-1,HI:Shemaroo Kids
