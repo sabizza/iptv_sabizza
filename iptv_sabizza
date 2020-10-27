@@ -1313,6 +1313,103 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce
 http://ott-sports.ddns.net:8081/live/ts1/chunks.m3u8
 #EXTINF:0,UK:BT SPORT02 TV
 http://ott-sports.ddns.net:8081/live/ts2/chunks.m3u8
+#EXTINF:-1,SP:GOL TV
+http://37.220.108.4:8001/play/a067
+#EXTINF:-1,S:M. DEPORTES
+http://37.220.108.4:8001/play/a07a
+#EXTINF:-1,SP:M. DEPORTESHD
+http://37.220.108.4:8001/play/a07o
+#EXTINF:-1,SP:M. DEPORTES1
+http://37.220.108.4:8001/play/a08u
+#EXTINF:-1,SP:M. DEPORTES1HD
+http://37.220.108.4:8001/play/a080
+#EXTINF:-1,SP:M. DEPORTES2
+http://37.220.108.4:8001/play/a0br
+#EXTINF:-1,SP:M. DEPORTES3
+http://37.220.108.4:8001/play/a0bx
+#EXTINF:-1,SP:M. DEPORTES4
+http://37.220.108.4:8001/play/a0bz
+#EXTINF:-1,SP:M. DEPORTES5
+http://37.220.108.4:8001/play/a0c1
+#EXTINF:-1,SP:M.DEPORTES6
+http://37.220.108.4:8001/play/a06q
+#EXTINF:-1,SP:M.DEPORTES7
+http://37.220.108.4:8001/play/a06h
+#EXTINF:-1,SP:M.GOLF
+http://37.220.108.4:8001/play/a074
+#EXTINF:-1,SP:M.GOLF HD
+http://37.220.108.4:8001/play/a08z
+#EXTINF:-1,SP:M. LaLiga
+http://37.220.108.4:8001/play/a07g
+#EXTINF:-1,SP:M. LaLiga HD
+http://37.220.108.4:8001/play/a072
+#EXTINF:-1,SP:M. LaLiga 1
+http://37.220.108.4:8001/play/a0bp
+#EXTINF:-1,SP:M. LaLiga 1 HD
+http://37.220.108.4:8001/play/a06v
+#EXTINF:-1,SP:M. LaLiga 2
+http://37.220.108.4:8001/play/a0ca
+#EXTINF:-1,SP:M. LaLiga 2 HD
+http://37.220.108.4:8001/play/a09k
+#EXTINF:-1,SP:M. LaLiga 3
+http://37.220.108.4:8001/play/a06o
+#EXTINF:-1,SP:M. LaLiga 3 HD
+http://37.220.108.4:8001/play/a09l
+#EXTINF:-1,SP:M. LaLiga 4
+http://37.220.108.4:8001/play/a06n
+#EXTINF:-1,SP:M. LaLiga 5
+http://37.220.108.4:8001/play/a0c3
+#EXTINF:-1,SP:M. LaLiga 6
+http://37.220.108.4:8001/play/a0c8
+#EXTINF:-1,SP:M. LaLiga 7
+http://37.220.108.4:8001/play/a0bs
+#EXTINF:-1,SP:M. LaLiga 8
+http://37.220.108.4:8001/play/a06f
+#EXTINF:-1,SP:M. LaLiga 9
+http://37.220.108.4:8001/play/a0cb
+#EXTINF:-1,SP:M. LaLiga 10
+http://37.220.108.4:8001/play/a0c2
+#EXTINF:-1,SP:M.FORMULA1
+http://37.220.108.4:8001/play/a068
+#EXTINF:-1,SP:M.FORMULA1HD
+http://37.220.108.4:8001/play/a07z
+#EXTINF:-1,SP:M.LCAMPEON1
+http://37.220.108.4:8001/play/a0c4
+#EXTINF:-1,SP:M.LCAMPEON2
+http://37.220.108.4:8001/play/a09m
+#EXTINF:-1,SP:M.LCAMPEON2
+http://37.220.108.4:8001/play/a06r
+#EXTINF:-1,SP:M.LCAMPEON3
+http://37.220.108.4:8001/play/a0c9
+#EXTINF:-1,SP:M.LCAMPEON4
+http://37.220.108.4:8001/play/a06p
+#EXTINF:-1,SP:M.LCAMPEON5
+http://37.220.108.4:8001/play/a0c7
+#EXTINF:-1,SP:M.LCAMPEON6
+http://37.220.108.4:8001/play/a0c6
+#EXTINF:-1,SP:M.LCAMPEON7
+http://37.220.108.4:8001/play/a0cd
+#EXTINF:-1,SP:M.LCAMPEON8
+http://37.220.108.4:8001/play/a0c0
+#EXTINF:-1,SP:M.LCAMPEONES
+http://37.220.108.4:8001/play/a0c5
+#EXTINF:-1,SP:M.LCAMPEONES
+http://37.220.108.4:8001/play/a08w
+#EXTINF:-1,SP:MULTIDEPORTE
+http://37.220.108.4:8001/play/a06s
+#EXTINF:-1,SP:MULTIDEPORTE
+http://37.220.108.4:8001/play/a06g
+#EXTINF:-1,SP:TELEDEPORTE
+http://37.220.108.4:8001/play/a0a4
+#EXTINF:-1,SP:TOROS
+http://37.220.108.4:8001/play/a0bu
+#EXTINF:-1,SP:TOROS HD
+http://37.220.108.4:8001/play/a07q
+#EXTINF:-1,DE:MySports Preview HD
+http://176.10.117.3:5000/play/a03j
+#EXTINF:-1,DE:Sport1 HD
+http://176.10.117.3:5000/play/a03k
+
 #EXTINF:-1,DE:Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1,DE:Bayern Munchen TV
@@ -1407,6 +1504,8 @@ http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd?checkedby
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 #EXTINF:0,KK:QZ Sport TV
 https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
+#EXTINF:-1,BG:Eurosport2 sdTV
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 #EXTINF:-1,US:Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,AU:Fox Sports News Au
