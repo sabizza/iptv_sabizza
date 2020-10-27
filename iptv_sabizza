@@ -627,6 +627,14 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
 #EXTINF:-1,AR:NatGeo Arab hdTV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1,AR:NatGeo Arab hdTV
+http://92.246.85.105:8010/play/a01j/index.m3u8
+#EXTINF:-1,US:NatGeo Eng TV
+https://stream.allsprk.tv/live/5/index.m3u8
+#EXTINF:-1,SP:NatGeo Esp sdTV
+http://37.220.108.4:8001/play/a078
+#EXTINF:-1,SP:NatGeo Esp hdTV
+http://37.220.108.4:8001/play/a07p
 #EXTINF:-1,BG:NatGeo Bulg hdTV
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
 #EXTINF:0,BG:NatGeo Bg hdTV
@@ -641,12 +649,18 @@ https://www.fanmingming.cn/hls/natlgeo.m3u8
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1,RU:NatGeo Russia hdTV
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+#EXTINF:-1,SP:NAT GEO WILD
+http://37.220.108.4:8001/play/a09e
 #EXTINF:-1,RU:NatGeoWild Russia sdTV
 http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
 #EXTINF:-1,BG:NatGeoWild BG sdTV
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1,US:Nat_Geo_Wild
+http://163.172.36.217:8000/play/a029/index.m3u8
 #EXTINF:0,BG:Animal Planet hdTV
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1,HI:Animal Plan-Rs2
+http://182.176.93.225:8000/play/a02e
 #EXTINF:-1,HI:Animal Planet TV
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1,RU:Animal Planet TV
@@ -655,6 +669,8 @@ http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 http://203.154.243.89:1201
 #EXTINF:0,TH:AnimalPlanet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,US:Animal_Planet_US
+http://163.172.36.217:8000/play/a005/index.m3u8
 #EXTINF:0,TH:History hdTV
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:0,TH:History2 hdTV
@@ -665,24 +681,50 @@ https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:0,TH:Sumrujlok TV
 https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1,HI:Discovery H-Rs6
+http://182.176.93.225:8000/play/a010
+#EXTINF:-1,HI:Discovery S-Rs1
+http://182.176.93.225:8000/play/a02c
+#EXTINF:-1,HI:Discovery T-Rs1
+http://182.176.93.225:8000/play/a02d
+#EXTINF:-1,HI:Disney Chan-Rs8
+http://182.176.93.225:8000/play/a01m
 #EXTINF:-1,HI:Discovery Science Hindi
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:-1,HI:History TV -Rs3
+http://182.176.93.225:8000/play/a02a
 #EXTINF:-1,US:Discovery Science English
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 #EXTINF:-1,RU:DiscoveryShowse EngTV
 http://185.22.183.157:8085/media/hls_183_157/discov_showcasehd/index.m3u8
 #EXTINF:-1,RU:Discovery Channel
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
-#EXTINF:0,FR:Discovery Channel hd
+#EXTINF:-1,GE:Discovery Channel
+http://212.42.193.122:8888/play/a00l/index.m3u8
+#EXTINF:0,FR:Discovery Channel
 http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+#EXTINF:-1,SP:Discovery Channel
+http://37.220.108.4:8001/play/a08m
 #EXTINF:0,BG:ID Xtra hdTV
 http://136.243.177.164/IDXTRA/playlist.m3u8
-#EXTINF:-1,PR:Odisseia Eng hdTV
-http://51.15.3.161:8080/odessa/index.m3u8?token=test
+#EXTINF:-1,SP:Odisseia hdTV
+http://37.220.108.4:8001/play/a075
+#EXTINF:-1,SP:HISTORIA TV
+http://37.220.108.4:8001/play/a08o
+#EXTINF:-1,SP:CAZA Y PESCA
+http://37.220.108.4:8001/play/a08i
+#EXTINF:-1,SP:IBERALIA TV
+http://37.220.108.4:8001/play/a097
+#EXTINF:-1,SP:CAZAyPESCA HD
+http://37.220.108.4:8001/play/a08f
 #EXTINF:-1,SP:Extremadura TV
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8
+#EXTINF:-1,SP:Cazavision SD
+http://152.89.35.254:8000/play/a00e/index.m3u8
 #EXTINF:-1,SP:Cazavision España
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+#EXTINF:-1,SP:Condavision
+http://152.89.35.254:8000/play/a005/index.m3u8
 #EXTINF:-1,PR:Cazavision Portugal
 https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8
 #EXTINF:-1,TR:Yaban TV
@@ -709,6 +751,18 @@ http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
 #EXTINF:-1,TR:DMAX Turc TV
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1,UK:DMAX Eng TV
+http://92.246.85.106:8000/play/a04v/index.m3u8
+#EXTINF:-1,UK:DMAX Eng TV
+http://92.246.85.74:8000/play/a0s1
+#EXTINF:-1,UK:DMAX+ Eng TV
+http://92.246.85.74:8000/play/a0rx
+#EXTINF:-1,DE:DMAX Deutch TV
+http://83.164.148.178:8888/play/a01a
+#EXTINF:-1,DE:DMAX Austria TV
+http://83.164.148.178:8888/play/a01p
+#EXTINF:-1,DE:N24 DOKU Austria
+http://83.164.148.178:8888/play/a01j
 #EXTINF:-1,De:kultur Md TV
 http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
 #EXTINF:-1,EXY:Tring World TV
@@ -745,6 +799,24 @@ https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,US:Docurama TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1,UK:HGTV
+http://92.246.85.74:8000/play/a0lg
+#EXTINF:-1,UK:HGTV+1
+http://92.246.85.74:8000/play/a0li
+#EXTINF:-1,UK:QUEST sdTV
+http://92.246.85.74:8000/play/a0s8
+#EXTINF:-1,UK:QUEST hdTV
+http://92.246.85.74:8000/play/a0mf
+#EXTINF:-1,UK:QUEST hdTV
+http://92.246.85.106:8000/play/a04x/index.m3u8
+#EXTINF:-1,UK:QUEST+1 TV
+http://92.246.85.74:8000/play/a0sa
+#EXTINF:-1,UK:Quest Red
+http://92.246.85.106:8000/play/a04y/index.m3u8
+#EXTINF:-1,UK:Quest Red TV
+http://92.246.85.74:8000/play/a0s9
+#EXTINF:-1,UK:Quest Red+1 TV
+http://92.246.85.74:8000/play/a0s7
 #EXTINF:-1,La:Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0,GE:Agro TV
@@ -775,10 +847,10 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1,BG:Travel Channel България
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-#EXTINF:-1,BG:Diema Family TV
-https://a6n.tvizio.bg/liveedge/diemafamily_ff_mid.stream/chunklist_w1795170285_DVR.m3u8?71210&cm2munqcdpt7bncfh53astbqg5&2&tvz
-#EXTINF:-1,BG:BNT1 hdTV
-https://a0n.tvizio.bg/liveedge/bnt1hd_ff_high.stream/chunklist_w1687401395_DVR.m3u8?71210&cm2munqcdpt7bncfh53astbqg5&87&tvz
+#EXTINF:-1,SP:VIAJAR sdTV
+http://37.220.108.4:8001/play/a0a1
+#EXTINF:-1,SP:VIAJAR hdTV
+http://37.220.108.4:8001/play/a089
 #EXTINF:-1,LA:TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1,CN:China Travel TV
@@ -847,18 +919,24 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,UK:FoodNetwork TV
 http://95.86.32.7:999/food
+#EXTINF:-1,UK:Foodxp TV
+http://92.246.85.74:8000/play/a0px
 #EXTINF:-1,US:Food Channel
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1,US:Tastemade TV
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 #EXTINF:-1,GE:Food TV
 http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
+#EXTINF:-1,GE:ATV - Թավա TV
+http://212.42.193.122:8888/play/a00a/index.m3u8
 #EXTINF:-1,MT:Smash Food
 http://s3.smashmalta.com:82/live/smash/smash/15.ts
 #EXTINF:-1,UK:Travel Cooking
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/chunklist_w1119650741.m3u8
 #EXTINF:-1,CN:Good Cooking TV
 http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1,SP:CANAL COCINA
+http://37.220.108.4:8001/play/a0a5
 #EXTINF:0,RO:Antena Cook and Play
 https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0,TR:TLC TV
