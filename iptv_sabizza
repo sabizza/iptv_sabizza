@@ -77,10 +77,6 @@ http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 #EXTINF:-1,FR:TV5MondeInfo TV
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1,FR:Euronews fr TV
-https://euronews-fr-p13-cdn.hexaglobe.net/b4e51b9ccf718478f08c07c226e700bb/5f89850d/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_480p.m3u8
-#EXTINF:-1,UK:Euronews uk TV
-https://euronews-en-p9-cdn.hexaglobe.net/4e861b3324bdeb3dc038b8c1d63a6df4/5f89aaf8/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_480p.m3u8
 #EXTINF:-1,FR:LCP TV
 https://stream-01.ix7.dailymotion.com/sec(H1f0mpDjQl1MhvhMGJwkbBspVBT7iARdjjQACO5Rb7o)/dm/3/xji3qy/d/live-2.m3u8
 #EXTINF:-1,FR:Public Sénat
@@ -89,6 +85,12 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1,FR:Euronews Fre TV
+http://83.164.148.178:8888/play/a00r
+#EXTINF:-1,DE:Euronews Deu TV
+http://176.10.117.3:5000/play/a02s
+#EXTINF:-1,UK:Euronews Eng TV
+http://92.246.85.74:8000/play/a0ms
 #EXTINF:-1,CA:ICI RDI fra hdTV
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1,CA:CPAC Fra TV
@@ -157,6 +159,8 @@ https://1861340594.rsc.cdn77.org/V3y-EIHW7G2XZxSk5lA6WQ==,1603669838/ls-54548-1/
 https://1359547862.rsc.cdn77.org/zvIcZPVSSGLnR11nzgouQg==,1603672513/LS-ATL-54548-8/tracks-v4a1/mono.m3u8
 #EXTINF:-1,US:Fox News TV
 https://1028107998.rsc.cdn77.org/Bqxit-A9D44iQ_E_1dDnBA==,1603668361/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,US:FOX NEWS
+http://37.220.108.4:8001/play/a05z
 #EXTINF:-1,US:CBNC TV
 https://1674331492.rsc.cdn77.org/wYvIR31BLTwHtaTVHIILzQ==,1603671440/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1,US:MSNBC TV
