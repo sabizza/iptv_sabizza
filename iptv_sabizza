@@ -545,16 +545,10 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 http://92.246.85.105:8010/play/a01j/index.m3u8
 #EXTINF:-1,US:NatGeo Eng TV
 https://stream.allsprk.tv/live/5/index.m3u8
-#EXTINF:-1,SP:NatGeo Esp sdTV
-http://37.220.108.4:8001/play/a078
-#EXTINF:-1,SP:NatGeo Esp hdTV
-http://37.220.108.4:8001/play/a07p
 #EXTINF:-1,BG:NatGeo Bulg hdTV
 https://cdn1.mobiletv.bg/T3/ng_hd/ng_hd_794613_850k.m3u8
 #EXTINF:0,BG:NatGeo Bg hdTV
 http://136.243.177.164/NATIONALGEOGRAPHIC/playlist.m3u8
-#EXTINF:-1,VT:NatGeo Viet sdTV
-http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
 #EXTINF:-1,CN:NatGeo China sdTV
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo?auth=zarin:RJsKR
 #EXTINF:-1,CN:NatGeo China hdTV
@@ -563,14 +557,12 @@ https://www.fanmingming.cn/hls/natlgeo.m3u8
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1,RU:NatGeo Russia hdTV
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-#EXTINF:-1,SP:NAT GEO WILD
-http://37.220.108.4:8001/play/a09e
-#EXTINF:-1,RU:NatGeoWild Russia sdTV
+#EXTINF:-1,RU:NatGeoWild Rus sdTV
 http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
+#EXTINF:-1,RU:NatGeoWild Rus hdTV
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,BG:NatGeoWild BG sdTV
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1,US:Nat_Geo_Wild
-http://163.172.36.217:8000/play/a029/index.m3u8
 #EXTINF:0,BG:Animal Planet hdTV
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1,HI:Animal Plan-Rs2
@@ -583,8 +575,6 @@ http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
 http://203.154.243.89:1201
 #EXTINF:0,TH:AnimalPlanet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1,US:Animal_Planet_US
-http://163.172.36.217:8000/play/a005/index.m3u8
 #EXTINF:0,TH:History hdTV
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:0,TH:History2 hdTV
@@ -621,16 +611,6 @@ http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
 http://37.220.108.4:8001/play/a08m
 #EXTINF:0,BG:ID Xtra hdTV
 http://136.243.177.164/IDXTRA/playlist.m3u8
-#EXTINF:-1,SP:Odisseia hdTV
-http://37.220.108.4:8001/play/a075
-#EXTINF:-1,SP:HISTORIA TV
-http://37.220.108.4:8001/play/a08o
-#EXTINF:-1,SP:CAZA Y PESCA
-http://37.220.108.4:8001/play/a08i
-#EXTINF:-1,SP:IBERALIA TV
-http://37.220.108.4:8001/play/a097
-#EXTINF:-1,SP:CAZAyPESCA HD
-http://37.220.108.4:8001/play/a08f
 #EXTINF:-1,SP:Extremadura TV
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8
 #EXTINF:-1,SP:Cazavision SD
@@ -691,6 +671,8 @@ http://5.135.92.133:52841/out/u/498_1.m3u8
 http://163.172.174.60/hls/stream.m3u8
 #EXTINF:-1,RU:Viasat Explore
 http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1,RU:Focus TV
+http://51.83.238.27:8888/254/mono.m3u8?token=80a7f5c
 #EXTINF:-1,UC:MS TV
 http://213.174.23.59:8080/MS
 #EXTINF:-1,RU:RT Documentary
@@ -731,6 +713,28 @@ http://92.246.85.106:8000/play/a04y/index.m3u8
 http://92.246.85.74:8000/play/a0s9
 #EXTINF:-1,UK:Quest Red+1 TV
 http://92.246.85.74:8000/play/a0s7
+#EXTINF:-1,PL:Food Network
+http://51.83.238.27:8888/253/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:Kuchnia+ hdTV
+http://51.83.238.27:8888/235/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:ID hdTV
+http://51.83.238.27:8888/239/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:History hdTV
+http://51.83.238.27:8888/240/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:History 2 HD
+http://51.83.238.27:8888/247/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:LifeTime hdTV
+http://51.83.238.27:8888/234/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:Nowa TV
+http://51.83.238.27:8888/216/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:Planete+ hdTV
+http://51.83.238.27:8888/211/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:DokuPolsat TV
+http://51.83.238.27:8888/206/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:SuperStacja hdTV
+http://51.83.238.27:8888/170/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:Travel Channel hdTV
+http://51.83.238.27:8888/163/mono.m3u8?token=80a7f5c
 #EXTINF:-1,La:Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0,GE:Agro TV
@@ -762,9 +766,7 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1,BG:Travel Channel България
 https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
 #EXTINF:-1,SP:VIAJAR sdTV
-http://37.220.108.4:8001/play/a0a1
-#EXTINF:-1,SP:VIAJAR hdTV
-http://37.220.108.4:8001/play/a089
+http://pichilemu.lookplay.ml:80/look/viajar/index.m3u8
 #EXTINF:-1,LA:TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1,CN:China Travel TV
