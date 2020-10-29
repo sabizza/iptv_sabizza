@@ -975,36 +975,12 @@ http://api.oneiptv.tv/load.php?id=0
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1,MOR:Arryadia Sport hdTV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0,AR:BienSport1 hdTV
-http://dx4.gcdn.co/UKS1747/index.m3u8
-#EXTINF:0,AR:BienSport2 hdTV
-http://dx4.gcdn.co/UKS1748/index.m3u8
-#EXTINF:0,AR:BienSport3 hdTV
-http://dx4.gcdn.co/UKS1749/index.m3u8
-#EXTINF:0,AR:BienSport4 hdTV
-http://dx4.gcdn.co/UKS1750/index.m3u8
-#EXTINF:0,AR:BienSport5 hdTV
-http://dx4.gcdn.co/UKS1751/index.m3u8
-#EXTINF:0,AR:BienSport6 hdTV
-http://dx4.gcdn.co/UKS1752/index.m3u8
-#EXTINF:0,AR:BienSport7 hdTV
-http://dx4.gcdn.co/UKS1753/index.m3u8
-#EXTINF:0,AR:BienSport8 hdTV
-http://dx4.gcdn.co/UKS1754/index.m3u8
-#EXTINF:0,AR:BienSport9 hdTV
-http://dx4.gcdn.co/UKS1755/index.m3u8
-#EXTINF:0,AR:BienSport10 hdTV
-http://dx4.gcdn.co/UKS1756/index.m3u8
-#EXTINF:0,AR:BienSport11 sdTV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
-#EXTINF:0,AR:BienSport11 hdTV
-http://dx4.gcdn.co/UKS1757/index.m3u8
-#EXTINF:0,AR:BienSport12 hdTV
-http://dx4.gcdn.co/UKS1758/index.m3u8
-#EXTINF:0,AR:BienSport13 hdTV
-http://dx4.gcdn.co/UKS1759/index.m3u8
-#EXTINF:0,AR:BienSportXtra TV
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1,AR:BienSport1 TV
+https://akamai2-mx.cdn.booyah.live/hls/250176/27775980.m3u8
+#EXTINF:-1,AR:BienSport1 hdTV
+https://akamai2-me.cdn.booyah.live/hls/113132/29055317.m3u8
+#EXTINF:-1,AR:BienSport1 fhdTV
+https://verizon-me.cdn.booyah.live/hls/113137/27014630.m3u8
 #EXTINF:0,AR:BienSport2
 http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
 #EXTINF:0,AR:BienSport3
@@ -1021,6 +997,16 @@ http://digitalxpress2.gcdn.co/live1/RTMP-bein7/tracks-v1a1/mono.m3u8
 http://digitalxpress2.gcdn.co/live1/RTMP-bein8/tracks-v1a1/mono.m3u8
 #EXTINF:0,AR:BienSport9
 http://digitalxpress2.gcdn.co/live1/RTMP-bein9/tracks-v1a1/mono.m3u8
+#EXTINF:0,AR:BienSportXtra TV
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1,AR:BEIN SPORT 1
+http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
+#EXTINF:-1,US:BEIN SPORT 11
+https://mkctv.net/topcermkc/usesport.m3u8
+#EXTINF:0,TH:Bein Sport01
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0,TH:Bein Sport02
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:0,SAF:SuperSport1 Golf
 http://dx4.gcdn.co/UKS1760/index.m3u8
 #EXTINF:0,SAF:SuperSport2 PSL
@@ -1035,10 +1021,38 @@ http://dx4.gcdn.co/UKS1764/index.m3u8
 http://dx4.gcdn.co/UKS1765/index.m3u8
 #EXTINF:0,SAF:SuperSport7 Variety2
 http://dx4.gcdn.co/UKS1766/index.m3u8
+#EXTINF:-1,SAF:SuperSport7 Variety2 TV
+http://45.134.21.230/hls/T1.m3u8
 #EXTINF:0,SAF:SuperSport8 PLeague
 http://dx4.gcdn.co/UKS1767/index.m3u8
 #EXTINF:0,SAF:SuperSport9 Variety4
 http://dx4.gcdn.co/UKS1768/index.m3u8
+#EXTINF:0,UK:BT Sports ESPN hdTV
+http://103.194.171.164/hls/espn.m3u8
+#EXTINF:0,UK:BT Sports2 hdTV
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com:443/out/v1/7b5d5ac6840e449fad13538bb45efb64/v3_1.m3u8
+#EXTINF:0,UK:BT Sports3 hdTV
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com:443/out/v1/09616dfe1b3c441eb8438db783ab7492/u1_1.m3u8
+#EXTINF:0,UK:SkySports pl sdTV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
+#EXTINF:0,UK:SkySports pl hdTV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
+#EXTINF:0,UK:SkySports main event
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.m3u8
+#EXTINF:0,UK:SkySports Football hdTV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0a1feb222a441c7.m3u8
+#EXTINF:0,UK:SkySports F1 hdTV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab67923.m3u8
+#EXTINF:0,UK:SkySports NFL
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.m3u8
+#EXTINF:0,UK:SkySports Arena
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.m3u8
+#EXTINF:0,UK:SkySport Specialgrandstand
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce8.m3u8
+#EXTINF:0,UK:BT SPORT01 TV
+http://ott-sports.ddns.net:8081/live/ts1/chunks.m3u8
+#EXTINF:0,UK:BT SPORT02 TV
+http://ott-sports.ddns.net:8081/live/ts2/chunks.m3u8
 #EXTINF:0,NovaSport1 hdTV
 http://37.48.86.45:8182/SUPERSPORT1/index.m3u8
 #EXTINF:0,NovaSport2 hdTV
@@ -1079,14 +1093,14 @@ http://37.48.86.45:8182/OTEsport7/index.m3u8
 http://37.48.86.45:8182/OTEsport8/index.m3u8
 #EXTINF:0,GR:OTE Sport9
 http://37.48.86.45:8182/OTEsport9/index.m3u8
-#EXTINF:-1,AR:BEIN SPORT 1
-http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
-#EXTINF:-1,US:BEIN SPORT 11
-https://mkctv.net/topcermkc/usesport.m3u8
-#EXTINF:0,TH:Bein Sport01
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:0,TH:Bein Sport02
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1,MaxSport1 TV
+http://136.243.177.164/MAXSPORT1/playlist.m3u8
+#EXTINF:-1,MaxSport2 TV
+http://136.243.177.164/MAXSPORT2/playlist.m3u8
+#EXTINF:-1,MaxSport3 TV
+http://136.243.177.164/MAXSPORT3/playlist.m3u8
+#EXTINF:-1,MaxSport4 TV
+http://136.243.177.164/MAXSPORT4/playlist.m3u8
 #EXTINF:-1,AR:Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,AR:Ad Sports 1
@@ -1113,10 +1127,6 @@ http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
 http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
 #EXTINF:-1,US:BienSport Extrat*
 https://tinyurl.com/BienSportExtra
-#EXTINF:-1,US:BienSport Extrat
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:-1,US:BienSport Extrat**
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:iptvcat.com
 #EXTINF:-1,FR:RMC Sport2 TV
 http://185.132.133.18:8080/rmcsport2/tracks-v1a1/mono.m3u8
 EXTINF:-1,FR:TVPI Sport
@@ -1141,6 +1151,12 @@ http://136.243.177.164/EUROSPORT/playlist.m3u8
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:0,SP:Eurosport 1 hdTV
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+#EXTINF:0,SP:Eurosport 1 hdTV
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8
+#EXTINF:0,SP:Gol hdTV
+http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+#EXTINF:0,SP:M laliga sdTV
+http://pichilemu.lookplay.ml/look/movistar_laliga/index.m3u8
 #EXTINF:0,BG:Eurosport02 hdTV
 http://136.243.177.164/EUROSPORT2/playlist.m3u8
 #EXTINF:0,BG:Eurosport 2 България
@@ -1209,123 +1225,10 @@ http://78.129.228.178/iptv/W28DYVFET2WZ2Z/2546/index.m3u8
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/2547/index.m3u8
 #EXTINF:0,Sport1 TV
 http://78.129.228.178/iptv/W28DYVFET2WZ2Z/2548/index.m3u8
-#EXTINF:0,UK:SkySports pl sdTV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
-#EXTINF:0,UK:SkySports pl hdTV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
-#EXTINF:0,UK:SkySports main event
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/ea9692163c70fd9.m3u8
-#EXTINF:0,UK:SkySports Football hdTV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0a1feb222a441c7.m3u8
-#EXTINF:0,UK:SkySports F1 hdTV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cdee67daab67923.m3u8
-#EXTINF:0,UK:SkySports NFL
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/d0804ae57353104.m3u8
-#EXTINF:0,UK:SkySports Arena
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/776d5184640c53e.m3u8
-#EXTINF:0,UK:SkySport Specialgrandstand
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce8.m3u8
-#EXTINF:0,UK:BT SPORT01 TV
-http://ott-sports.ddns.net:8081/live/ts1/chunks.m3u8
-#EXTINF:0,UK:BT SPORT02 TV
-http://ott-sports.ddns.net:8081/live/ts2/chunks.m3u8
-#EXTINF:-1,SP:GOL TV
-http://37.220.108.4:8001/play/a067
-#EXTINF:-1,S:M. DEPORTES
-http://37.220.108.4:8001/play/a07a
-#EXTINF:-1,SP:M. DEPORTESHD
-http://37.220.108.4:8001/play/a07o
-#EXTINF:-1,SP:M. DEPORTES1
-http://37.220.108.4:8001/play/a08u
-#EXTINF:-1,SP:M. DEPORTES1HD
-http://37.220.108.4:8001/play/a080
-#EXTINF:-1,SP:M. DEPORTES2
-http://37.220.108.4:8001/play/a0br
-#EXTINF:-1,SP:M. DEPORTES3
-http://37.220.108.4:8001/play/a0bx
-#EXTINF:-1,SP:M. DEPORTES4
-http://37.220.108.4:8001/play/a0bz
-#EXTINF:-1,SP:M. DEPORTES5
-http://37.220.108.4:8001/play/a0c1
-#EXTINF:-1,SP:M.DEPORTES6
-http://37.220.108.4:8001/play/a06q
-#EXTINF:-1,SP:M.DEPORTES7
-http://37.220.108.4:8001/play/a06h
-#EXTINF:-1,SP:M.GOLF
-http://37.220.108.4:8001/play/a074
-#EXTINF:-1,SP:M.GOLF HD
-http://37.220.108.4:8001/play/a08z
-#EXTINF:-1,SP:M. LaLiga
-http://37.220.108.4:8001/play/a07g
-#EXTINF:-1,SP:M. LaLiga HD
-http://37.220.108.4:8001/play/a072
-#EXTINF:-1,SP:M. LaLiga 1
-http://37.220.108.4:8001/play/a0bp
-#EXTINF:-1,SP:M. LaLiga 1 HD
-http://37.220.108.4:8001/play/a06v
-#EXTINF:-1,SP:M. LaLiga 2
-http://37.220.108.4:8001/play/a0ca
-#EXTINF:-1,SP:M. LaLiga 2 HD
-http://37.220.108.4:8001/play/a09k
-#EXTINF:-1,SP:M. LaLiga 3
-http://37.220.108.4:8001/play/a06o
-#EXTINF:-1,SP:M. LaLiga 3 HD
-http://37.220.108.4:8001/play/a09l
-#EXTINF:-1,SP:M. LaLiga 4
-http://37.220.108.4:8001/play/a06n
-#EXTINF:-1,SP:M. LaLiga 5
-http://37.220.108.4:8001/play/a0c3
-#EXTINF:-1,SP:M. LaLiga 6
-http://37.220.108.4:8001/play/a0c8
-#EXTINF:-1,SP:M. LaLiga 7
-http://37.220.108.4:8001/play/a0bs
-#EXTINF:-1,SP:M. LaLiga 8
-http://37.220.108.4:8001/play/a06f
-#EXTINF:-1,SP:M. LaLiga 9
-http://37.220.108.4:8001/play/a0cb
-#EXTINF:-1,SP:M. LaLiga 10
-http://37.220.108.4:8001/play/a0c2
-#EXTINF:-1,SP:M.FORMULA1
-http://37.220.108.4:8001/play/a068
-#EXTINF:-1,SP:M.FORMULA1HD
-http://37.220.108.4:8001/play/a07z
-#EXTINF:-1,SP:M.LCAMPEON1
-http://37.220.108.4:8001/play/a0c4
-#EXTINF:-1,SP:M.LCAMPEON2
-http://37.220.108.4:8001/play/a09m
-#EXTINF:-1,SP:M.LCAMPEON2
-http://37.220.108.4:8001/play/a06r
-#EXTINF:-1,SP:M.LCAMPEON3
-http://37.220.108.4:8001/play/a0c9
-#EXTINF:-1,SP:M.LCAMPEON4
-http://37.220.108.4:8001/play/a06p
-#EXTINF:-1,SP:M.LCAMPEON5
-http://37.220.108.4:8001/play/a0c7
-#EXTINF:-1,SP:M.LCAMPEON6
-http://37.220.108.4:8001/play/a0c6
-#EXTINF:-1,SP:M.LCAMPEON7
-http://37.220.108.4:8001/play/a0cd
-#EXTINF:-1,SP:M.LCAMPEON8
-http://37.220.108.4:8001/play/a0c0
-#EXTINF:-1,SP:M.LCAMPEONES
-http://37.220.108.4:8001/play/a0c5
-#EXTINF:-1,SP:M.LCAMPEONES
-http://37.220.108.4:8001/play/a08w
-#EXTINF:-1,SP:MULTIDEPORTE
-http://37.220.108.4:8001/play/a06s
-#EXTINF:-1,SP:MULTIDEPORTE
-http://37.220.108.4:8001/play/a06g
-#EXTINF:-1,SP:TELEDEPORTE
-http://37.220.108.4:8001/play/a0a4
-#EXTINF:-1,SP:TOROS
-http://37.220.108.4:8001/play/a0bu
-#EXTINF:-1,SP:TOROS HD
-http://37.220.108.4:8001/play/a07q
 #EXTINF:-1,DE:MySports Preview HD
 http://176.10.117.3:5000/play/a03j
 #EXTINF:-1,DE:Sport1 HD
 http://176.10.117.3:5000/play/a03k
-
 #EXTINF:-1,DE:Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 #EXTINF:-1,DE:Bayern Munchen TV
@@ -1346,8 +1249,36 @@ https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1,BG:AutoMotor Sport TV
 https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
+#EXTINF:0,IT:Sky Sport Live hdTV
+http://liv3e.click/live/6575185288/0209818904/98352.m3u8
+#EXTINF:0,IT:Sky Sport SerieA hdTV
+http://liv3e.click/live/6575185288/0209818904/98353.m3u8
+#EXTINF:0,IT:Sky Sport hdTV
+http://liv3e.click/live/6575185288/0209818904/98354.m3u8
+#EXTINF:0,IT:Sky Sport Arena hdTV
+http://liv3e.click/live/6575185288/0209818904/98355.m3u8
 #EXTINF:-1,IT:TeleArena
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8 
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,PL:Motowizja hdTV
+http://51.83.238.27:8888/230/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:NSport+ hdTV
+http://51.83.238.27:8888/215/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport Extra
+http://51.83.238.27:8888/195/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport Fight
+http://51.83.238.27:8888/194/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport Premiere
+http://51.83.238.27:8888/193/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport News
+http://51.83.238.27:8888/192/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport Premium1
+http://51.83.238.27:8888/191/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport Premium2
+http://51.83.238.27:8888/190/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:PolsatSport Premium ppv3
+http://51.83.238.27:8888/189/mono.m3u8?token=80a7f5c
+#EXTINF:-1,PL:Sport Klub hdTV
+http://51.83.238.27:8888/175/mono.m3u8?token=80a7f5c 
 #EXTINF:-1,TR:Beyaz Sport TV
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:-1,TR:GS Sport hdTV
@@ -1562,6 +1493,8 @@ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 http://103.214.202.218:8081/live/sonysix/chunks.m3u8
 #EXTINF:-1,HI:TenSport TV
 http://125.209.99.45:43568/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:0,HI:Star1 Sport Select
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 #EXTINF:-1,PK:PTV Sports hdTV
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1,PK:SonyTen Sport1 hdTV
@@ -1626,16 +1559,6 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0,TH:T Sport TV
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
-#EXTINF:-1,TH:Doball 1
-http://stream.doball.com:8080/hls/ch1.m3u8?feed
-#EXTINF:-1,TH:Doball 2
-http://stream.doball.com:8080/hls/ch2.m3u8?feed
-#EXTINF:-1,TH:Doball 3
-http://stream.doball.com:8080/hls/ch3.m3u8?feed
-#EXTINF:-1,TH:Doball 4
-http://stream.doball.com:8080/hls/ch4.m3u8?feed
-#EXTINF:-1,TH:Doball 5
-http://stream.doball.com:8080/hls/ch5.m3u8?feed
 #EXTINF:-1,TH:PPTV!
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:0,TH:Amazing Show
@@ -1670,8 +1593,6 @@ http://203.162.235.41:16924
 https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
 #EXTINF:-1,AR:Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,AR:Dubai Racing TV1
-http://dmisvt
 #EXTINF:-1,NZ:Racing NZ TV
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:0,AU:ATG Racing
