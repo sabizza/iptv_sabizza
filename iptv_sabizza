@@ -279,6 +279,14 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 http://iptvmasterlink.dyndns.org:8080/Entry/trtcocukhd_yeni/playlist.m3u8
 #EXTINF:-1,TR:Minika Çocuk TV 
 http://streams2.livetv.az/turk/minika_stream/playlist.m3u8
+#EXTINF:-1,KRD:Zagros kids TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
+#EXTINF:-1,KRD:Helhelok Kids TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/60
+#EXTINF:-1,KRD:NRT 3 Kids TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
+#EXTINF:-1,KRD:Kurdmax Pepule hd+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/62
 #EXTINF:-1,IR:GEM Kids TV
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1,IR:GEM Junior TV
