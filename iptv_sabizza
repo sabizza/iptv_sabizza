@@ -619,6 +619,8 @@ http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF:-1,RU:NatGeo Russia hdTV
 http://136.243.177.164:80/NATIONALGEOGRAPHIC/index.m3u8?h=ykPqH2kF2-kWzzLR9tVudQ-dwXvg
+#EXTINF:-1,SP:NatGeo Spain TV
+http://51.210.33.224:8000/live/noEidakj34566nn8122/o122Me33To445Qu33LosCnos4901u//26.ts
 #EXTINF:-1,RU:NatGeoWild Rus sdTV
 http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
 #EXTINF:-1,RU:NatGeoWild Rus hdTV
@@ -627,6 +629,8 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:-1,ID:NatGeoWild ID hdTV
 http://54.37.82.205:8081/liveorigin/hd-natgeowild_720/playlist.m3u8
+#EXTINF:-1,SP:NatGeoWild Sp TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Portugal/64de68a88904dd4.m3u8
 #EXTINF:0,ID:Animal Planet eng hdTV
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:0,ID:Animal Planet eng hdTV
@@ -637,16 +641,22 @@ http://182.176.93.225:8000/play/a02e
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1,RU:Animal Planet TV
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,UK:Animal Planet hdTV
+http://e02.plius.tv:64144/n18/index.m3u8
+#EXTINF:-1,TH:Animal Planet TV
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1,TH:World Animal hdTV
 http://203.154.243.89:1201
-#EXTINF:0,TH:AnimalPlanet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,RU:Viasat Nature TV
+http://82.200.127.58:8080/udp/239.54.5.90:1234
 #EXTINF:-1,EXY:Tring Planet TV
 http://5.135.92.133:52841/out/u/371_1.m3u8
 #EXTINF:-1,EXY:Tring Planet TV
 http://5.135.92.133:52841/out/u/458_2.m3u8
 #EXTINF:-1,PL:Planete+ hdTV
 http://51.83.238.27:8888/211/mono.m3u8?token=80a7f5c
+#EXTINF:-1,TH:BBC Earth TV
+https://www.livedoomovie.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1,RU:Diving TV
 https://strm.yandex.ru/kal/diving/diving0.m3u8
 #EXTINF:-1,RU:Ocean hdTV
@@ -689,6 +699,10 @@ http://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
 #EXTINF:-1,RU:Viasat Explore
 http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1,RU:Viasat Explore TV
+http://82.200.127.58:8080/udp/239.54.5.92:1234
+#EXTINF:-1,UK:Viasat Explore hdTV
+http://e02.plius.tv:64144/n19/index.m3u8
 #EXTINF:-1,GK:Xplore TV
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1,UK:QUEST sdTV
@@ -797,10 +811,14 @@ http://51.83.238.27:8888/170/mono.m3u8?token=80a7f5c
 http://51.83.238.27:8888/254/mono.m3u8?token=80a7f5c
 #EXTINF:-1,UC:MS TV
 http://213.174.23.59:8080/MS
+#EXTINF:-1,??:EL TV
+https://str2.yodacdn.net/eltv/video.m3u8?token=7fc6211589c6dff8e10c15f0ae4a46b017344cac-2cb5d8e86f86eacc9d2f772d94c850d0-1604009476-1603998676
 #EXTINF:-1,La:Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:0,TH:Sumrujlok TV
 https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1,RO:Digi Wold hdTV
+http://rstr0.teamnetwork.co/stream180/stream.m3u8
 #EXTINF:-1,EXY:Tring World TV
 http://5.135.92.133:52841/out/u/412_1.m3u8
 #EXTINF:-1,EXY:Tring History TV
@@ -823,6 +841,12 @@ http://182.176.93.225:8000/play/a02a
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1,JP:History TV
 http://hlstw.ihome.tokyo/live/cs14.stream/playlist.m3u8?wowzasessionid=token
+#EXTINF:-1,RU:History2 hdTV
+https://fra-haproxy.angelthump.com/hls/menie1/index.m3u8?stream=menie
+#EXTINF:-1,UK:Viasat History hdTV
+http://e02.plius.tv:64144/n20/index.m3u8
+#EXTINF:-1,SP:Historia TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a.m3u8
 #EXTINF:-1,NO:Norway Live TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 #EXTINF:-1,AL:Alb Culture hdTV
@@ -989,6 +1013,8 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
 #EXTINF:-1,RU:DaVinci Россия
 http://89.106.234.4:80/DaVinci_34_35.m3u8
+#EXTINF:-1,RU:Da Vinci TV
+http://82.200.127.58:8080/udp/239.54.5.95:1234
 #EXTINF:-1,RU:HDL sdTV
 http://89.106.234.3:80/hdl_34_35.m3u8
 #EXTINF:-1,RU:HDL hdTV
@@ -1235,12 +1261,30 @@ http://136.243.177.164/NOVASPORT/playlist.m3u8
 http://5.135.92.133:42692/out/u/683_1.m3u8
 #EXTINF:0,TringSport 2hd
 http://5.135.92.133:42692/out/u/691_1.m3u8
-
-
+#EXTINF:0,SP:Toros TV
+http://194.76.186.15:8000/play/a038
+#EXTINF:0,SP:Toros TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/e74939e985a8d11.m3u
+#EXTINF:0,SP:M laliga deportes
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/86f504cd1c129ef.m3u8
+#EXTINF:0,SP:M Golf
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/50463d18b0fbed3.m3u8
+#EXTINF:0,SP:M F1 TV
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/c98b0314d5d22a1.m3u8
 #EXTINF:0,SP:Gol hdTV
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
 #EXTINF:0,SP:M laliga sdTV
 http://pichilemu.lookplay.ml/look/movistar_laliga/index.m3u8
+#EXTINF:0,RO:DigiSport1 hdTV
+http://rstr0.teamnetwork.co/stream181/stream.m3u8
+#EXTINF:0,RO:DigiSport2 hdTV
+http://rstr0.teamnetwork.co/stream182/stream.m3u8
+#EXTINF:0,HU:M4 Sport hdTV
+http://rstr0.teamnetwork.co/stream183/stream.m3u8
+#EXTINF:0,Sport1 hdTV
+http://rstr0.teamnetwork.co/stream184/stream.m3u8
+#EXTINF:0,PR:Porto Canal
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
 #EXTINF:0,PT:Sport01 TV
 http://77.54.145.209:81/play/a02v
 #EXTINF:0,PT:Sport02 TV
@@ -1378,7 +1422,15 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlit.m3u8
 #EXTINF:0,RO:DIGISPORT 2
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
 #EXTINF:0,RO:DIGISPORT 3
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8 
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlit.m3u8
+#EXTINF:0,BG:NovaSport Cricket
+http://82.200.127.58:8080/udp/239.54.5.94:1234
+#EXTINF:0,BG:Eurousport1 Rus hdTV
+http://188.35.9.26:16050/udp/238.0.16.3:69000
+#EXTINF:0,RU:Mach1
+http://176.197.26.198:81/udp/239.255.42.163:1234
+#EXTINF:0,RU:Footbal2 TV
+https://95-213-224-187.livesports24.online/fooootball2.m3u8 
 #EXTINF:-1,TR:Beyaz Sport TV
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:-1,TR:GS Sport hdTV
@@ -1593,6 +1645,8 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:0,JP:JaponSport1
 http://hlstw.ihome.tokyo/live/cs05.stream/playlist.m3u8?wowzasessionid=token
+#EXTINF:0,JP:JaponSports1 hd TV
+http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:0,JP:JaponSport2
 http://hlstw.ihome.tokyo/live/cs06.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:0,JP:JaponSport3
@@ -1809,3 +1863,4 @@ http://dx3.gcdn.co/OSNWWE/index.m3u8
 http://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:0,RTV Sport
 http://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8
+
