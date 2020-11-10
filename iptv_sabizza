@@ -51,6 +51,8 @@ http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1,TR:Haber Global
 https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
+#EXTINF:-1,TR:CNN Turc TV
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,DE:DW Arabic TV
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1,FR:France24 Ara TV
@@ -64,7 +66,7 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1,FR:France Info TV
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1,FR:CNews
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8?fluxustv.m3u8
 #EXTINF:-1,FR:CNews TV
 https://stream-06.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-2.m3u8
 #EXTINF:-1,FR:LCI fhTV
@@ -76,11 +78,13 @@ http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3
 #EXTINF:-1,FR:Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
 #EXTINF:0,BE:LN24 hdTV
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?fluxustv.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby &checkedby
+#EXTINF:-1,UK:Euronews Eng TV
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 #EXTINF:-1,DE:Euronews Deu TV
 http://176.10.117.3:5000/play/a02s
 #EXTINF:-1,GK:Euronews Greck
@@ -125,6 +129,8 @@ https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 #EXTINF:-1,US:CBN News hdTV
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1,US:CBN News hdTV
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_2000_av-p.m3u8
 #EXTINF:-1,US:CNN INT hdTV
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,US:Fox News hdTV
@@ -151,6 +157,8 @@ http://liveingesta118.cdnmedia.tv//cngmexicolive/smil:diputados1.smil/chunklist_
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1,BR:TV Guará
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF:-1,BR:GloboNews
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
 #EXTINF:-1,RU:RT News TV
 http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1,RU:RT Espanol TV
@@ -175,7 +183,7 @@ http://tv.cdn.xsg.ge/palitra/playlist.m3u8
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
 #EXTINF:-1,GE:TV 24 News
 http://tv.cdn.xsg.ge/tv24/playlist.m3u8
-#EXTINF:-1,KZ:Хабар 24
+#EXTINF:-1,KZ:Habar 24 News
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1,KZ:Atameken Business
 http://89.106.234.4:80/Atameken_34_35.m3u8
