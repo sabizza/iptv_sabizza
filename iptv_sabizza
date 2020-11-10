@@ -599,22 +599,26 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w1265440117_b20000
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,MR:Arrabiaa TV
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,AR:Aljazeera Documentary TV
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby
 #EXTINF:-1,FR:RMC DECOUVERTE
 http://178.18.49.42:8080/play/a00c
 #EXTINF:-1,FR:RMC STORY
 http://178.18.49.42:8080/play/a00b
 #EXTINF:-1,FR:France5 hdTV
 http://178.18.49.42:8080/play/a00g
+#EXTINF:-1,FR:TV5 Monde Europe
+http://109.184.113.76:4088/udp/225.52.143.100:5000
 #EXTINF:-1,FR:TV5 Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
 #EXTINF:-1,Lat:Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0,GE:Agro Georgia TV
-http://tv.cdn.xsg.ge/agrotv/tracks-v1a1/index.m3u8
 #EXTINF:0,RO:Agro Romania TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,TR:TGRT Belgesel TV
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
+#EXTINF:-1,RU:Usadba Garden TV
+http://89.189.191.250/239.211.211.62/stream.m3u8
+#EXTINF:-1,RU:Usadba Garden TV
+http://82.200.127.58:8080/udp/239.54.5.113:1224
 #EXTINF:-1,AR:NatGeo Arab hdTV
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,AR:NatGeo Arab hdTV
@@ -639,6 +643,8 @@ http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
 #EXTINF:-1,RU:NatGeo Russia hdTV
 http://136.243.177.164:80/NATIONALGEOGRAPHIC/index.m3u8?h=ykPqH2kF2-kWzzLR9tVudQ-dwXvg
+#EXTINF:-1,RU:NatGeo Ucran TV
+http://89.189.191.250/239.211.211.40/stream.m3u8
 #EXTINF:-1,HI:NatGeo Eng TV
 http://182.176.93.225:8000/play/a00z
 #EXTINF:-1,LAT:Love Nature Br HD
@@ -647,6 +653,10 @@ http://177.91.162.202:8000/play/LoveNature/index.m3u8
 http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
 #EXTINF:-1,RU:NatGeoWild Rus hdTV
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1,RU:NatGeoWild Ucran TV
+http://89.189.191.250/239.211.211.42/stream.m3u8
+#EXTINF:-1,RU:NatGeoWild rus hdTV
+http://46.148.215.193:1234/udp/239.192.18.21:1234?zona-iptv.ru/
 #EXTINF:-1,BG:NatGeoWild BG sdTV
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
 #EXTINF:-1,ID:NatGeoWild ID hdTV
@@ -667,6 +677,10 @@ http://182.176.93.225:8000/play/a02e
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1,RU:Animal Planet TV
 http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RU:Animal Planet Rus sdTV
+http://82.200.127.58:8080/udp/239.54.6.84:1234
+#EXTINF:-1,RU:Animal Planet Rus hdTV
+http://82.200.127.58:8080/udp/239.54.6.94:1234
 #EXTINF:-1,UK:Animal Planet hdTV
 http://e02.plius.tv:64144/n18/index.m3u8
 #EXTINF:-1,TH:Animal Planet TV
@@ -675,12 +689,20 @@ https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 http://189.91.128.146:5555/udp/227.10.20.118:1234
 #EXTINF:-1,PR:Animal Planet por hdTV
 http://177.91.162.202:8000/play/AnimalPlanet/index.m3u8
+#EXTINF:-1,RU:ZooPark TV
+http://89.189.191.250/239.211.211.57/stream.m3u8
+#EXTINF:-1,RU:ZooPark hdTV
+http://82.200.127.58:8080/udp/239.54.6.163:1224
 #EXTINF:-1,TH:World Animal hdTV
 http://203.154.243.89:1201
 #EXTINF:-1,LAT:DOG TV
 http://177.91.162.202:8000/play/DOG/index.m3u8
-#EXTINF:-1,RU:Viasat Nature TV
+#EXTINF:-1,IR:GEM Nature hdTV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
+#EXTINF:-1,RU:Viasat Nature sdTV
 http://82.200.127.58:8080/udp/239.54.5.90:1234
+#EXTINF:-1,RU:Viasat Nature hdTV
+http://109.184.113.76:4088/udp/225.52.143.98:5000
 #EXTINF:-1,EXY:Tring Planet TV
 http://5.135.92.133:52841/out/u/371_1.m3u8
 #EXTINF:-1,EXY:Tring Planet TV
@@ -733,6 +755,14 @@ https://strm.yandex.ru/kal/sibir/sibir0.m3u8
 http://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1,RU:Trofey TV
 http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/playlist.m3u8
+#EXTINF:-1,RU:Trofé pèche TV
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_b878000_slukr.m3u8
+#EXTINF:-1,RU:Wild Chasse hdTV
+http://46.148.215.193:1234/udp/239.192.7.70:1234?zona-iptv.ru/
+#EXTINF:-1,RU:Wild Péche hdTV
+http://46.148.215.193:1234/udp/239.192.7.71:1234?zona-iptv.ru/
+#EXTINF:-1,KZ:Turan TV
+https://sc.id-tv.kz/TuranTV_36_37.m3u8
 #EXTINF:-1,RU:Viasat Explore
 http://188.35.9.5:10020/stolen/485v/hot.dll
 #EXTINF:-1,RU:Viasat Explore TV
@@ -755,7 +785,7 @@ http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 #EXTINF:-1,RU:DiscoveryShowse EngTV
 http://185.22.183.157:8085/media/hls_183_157/discov_showcasehd/index.m3u8
-#EXTINF:-1,LAT:Disc. Home & Health HD
+#EXTINF:-1,LAT:Disc.Home&Health HD
 http://177.91.162.202:8000/play/DiscHomeHealth/index.m3u8
 #EXTINF:-1,LAT:Discovery Home bra TV
 http://189.91.128.146:5555/udp/227.10.20.85:1234
@@ -781,6 +811,12 @@ http://177.91.162.202:8000/play/DiscoveryWorld/index.m3u8
 http://177.91.162.202:8000/play/ID/index.m3u8
 #EXTINF:-1,RU:DiscoveryChannel Rus
 http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8
+#EXTINF:-1,RU:DiscoveryChannel Rus hdTV
+http://82.200.127.58:8080/udp/239.54.6.86:1234
+#EXTINF:-1,RU:DiscoveryScience Rus TV
+http://46.148.215.193:1234/udp/239.192.7.19:1234?zona-iptv.ru/
+#EXTINF:-1,RU:ID Xtra Rus TV
+http://109.184.113.76:4088/udp/225.52.123.83:5000
 #EXTINF:-1,GE:DiscoveryChannel Geo
 http://212.42.193.122:8888/play/a00l/index.m3u8
 #EXTINF:0,BG:DiscoveryChannel eng
@@ -839,6 +875,8 @@ http://92.246.85.74:8000/play/a0lg
 http://92.246.85.74:8000/play/a0li
 #EXTINF:-1,TR:CRI Turc Belgesel TV
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8
+#EXTINF:-1,TR:TGRT Belgesel TV
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
 #EXTINF:-1,IR:Persiana Documentary
 http://163.172.174.60/hls/stream.m3u8
 #EXTINF:-1,DE:N24 DOKU Austria
@@ -905,7 +943,9 @@ https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
 http://hlstw.ihome.tokyo/live/cs14.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1,RU:History2 hdTV
 https://fra-haproxy.angelthump.com/hls/menie1/index.m3u8?stream=menie
-#EXTINF:-1,UK:Viasat History hdTV
+#EXTINF:-1,RU:ViasatHistory Rus TV
+http://82.200.127.58:8080/udp/239.54.5.93:1234
+#EXTINF:-1,UK:ViasatHistory Eng hdTV
 http://e02.plius.tv:64144/n20/index.m3u8
 #EXTINF:-1,SP:Historia TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a.m3u8
@@ -913,6 +953,10 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a
 http://189.91.128.146:5555/udp/227.10.20.130:1234
 #EXTINF:-1,NO:Norway Live TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1,IR:GEM Travel hdTV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+#EXTINF:-1,IR:GEM Property TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
 #EXTINF:-1,AL:Alb Culture hdTV
 http://tva.fastbroad.com/i/alb_culture_ny145p1_1@380804/index_1500_av-p.m3u8
 #EXTINF:-1,RO:Arcadia World TV
@@ -949,6 +993,12 @@ http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,RU:RTG TV
 http://strm.yandex.ru/kal/rtg/rtg0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,RU:Travel Channel Rus 
+http://109.184.113.76:4088/udp/225.52.143.57:5000
+#EXTINF:-1,RU:TELETRAVEL hdTV
+http://82.200.127.58:8080/udp/239.54.6.103:1224
+#EXTINF:-1,RU:Big Asia Travel hd TV
+http://82.200.127.58:8080/udp/239.54.6.247:1234
 #EXTINF:-1,RU:Travel & Adventure TV
 http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,RU:podsekai TV
@@ -981,6 +1031,8 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1,CA:Better Nature TV
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1,TR:Africa Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1,PL:Food Network
 http://51.83.238.27:8888/253/mono.m3u8?token=80a7f5c
 #EXTINF:-1,PL:Kuchnia+ hdTV
@@ -1011,10 +1063,18 @@ http://tv.cdn.xsg.ge/foodtv/playlist.m3u8
 http://212.42.193.122:8888/play/a00a/index.m3u8
 #EXTINF:-1,RU:Food Russe hdTV
 http://178.158.181.8:1504/110
+#EXTINF:-1,RU:KUHNYA food TV
+http://82.200.127.58:8080/udp/239.54.6.156:1224
+#EXTINF:-1,RU:ТЕЛЕ КАФЕ food TV
+http://82.200.127.58:8080/udp/239.54.6.226:1234
+#EXTINF:-1,RU:Master Chef TV
+http://82.200.127.58:8080/udp/239.54.5.81:1224
 #EXTINF:-1,MT:Smash Food
 http://s3.smashmalta.com:82/live/smash/smash/15.ts
 #EXTINF:-1,CN:Good Cooking TV
 http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1,IR:GEM Food TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8
 #EXTINF:-1,SP:CANAL COCINA
 http://37.220.108.4:8001/play/a0a5
 #EXTINF:0,RO:Antena Cook and Play
@@ -1031,6 +1091,8 @@ http://51.83.238.27:8888/216/mono.m3u8?token=80a7f5c
 http://62.210.104.181:8080/RTLLIVING/playlist.m3u8
 #EXTINF:0,TR:TLC TV
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,TR:Woman TV
+https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1,UK:Quest Red
 http://92.246.85.106:8000/play/a04y/index.m3u8
 #EXTINF:-1,UK:Quest Red TV
@@ -1049,6 +1111,8 @@ http://58.26.3.54/PLTV/88888888/224/3221226265/02.m3u8
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1,CA:Savoir TV
 https://hls.savoir.media/live/stream.m3u8?checkedby
+#EXTINF:-1,CA:Savoir TV
+https://hls.savoir.media/live/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,FR:MDL hdTV
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8?checkedby
 #EXTINF:-1,La:Red Advenir TV
@@ -1079,12 +1143,18 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
 #EXTINF:-1,RU:DaVinci Россия
 http://89.106.234.4:80/DaVinci_34_35.m3u8
-#EXTINF:-1,RU:Da Vinci TV
+#EXTINF:-1,RU:Da Vinci sdTV
 http://82.200.127.58:8080/udp/239.54.5.95:1234
-#EXTINF:-1,RU:HDL sdTV
+#EXTINF:-1,RU:Da Vinci hdTV
+http://82.200.127.58:8080/udp/239.54.5.95:1234
+#EXTINF:-1,RU:English Club TV
+http://109.248.93.99:4044/udp/239.195.0.73:1234
+#EXTINF:-1,RU:HDLife sdTV
 http://89.106.234.3:80/hdl_34_35.m3u8
-#EXTINF:-1,RU:HDL hdTV
+#EXTINF:-1,RU:HDLife hdTV
 http://37.193.6.155:34040/udp/239.1.9.2:1234
+#EXTINF:-1,RU:HDLife fhdTV
+http://82.200.127.58:8080/udp/239.54.6.140:1224
 #EXTINF:-1,RU:Mosobr TV
 http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
 #EXTINF:-1,RU:TVM Channel
@@ -1097,6 +1167,14 @@ http://89.106.234.4:80/poehali_34_35.m3u8
 http://78.29.1.69/live/istoriya/copy/playlist.m3u8
 #EXTINF:-1,RU:Telekafe
 http://185.22.183.150:8085/media/hls_183_150/telekafe/index.m3u8
+#EXTINF:-1,RU:Service Science fhd TV
+http://82.200.127.58:8080/udp/239.54.5.78:1224
+#EXTINF:-1,RU:Psychology TV
+http://89.189.191.250/239.211.211.64/stream.m3u8
+#EXTINF:-1,RU:Doctor TV
+http://89.189.191.250/239.211.211.67/stream.m3u8
+#EXTINF:-1,RU:Doctor hdTV
+http://82.200.127.58:8080/udp/239.54.6.104:1224
 #EXTINF:-1,UC:Pershiy Zahidniy
 http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
 #EXTINF:-1,KR:EBSe TV
