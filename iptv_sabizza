@@ -347,8 +347,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,UK:Learnings English Kids TV
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1,UK:Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1,UK:3BTV Game TV
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/index-v1-a1.m3u8
 #EXTINF:-1,UK:TCT Kids TV
@@ -397,8 +395,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
 #EXTINF:-1,US:TCT Kids TV
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-#EXTINF:-1,US:TVO Kids TV
+#EXTINF:-1,CA:TVO Kids TV
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1,CA:TVO Kids TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,CA:PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1,US:ZooMoo TV
@@ -473,6 +473,66 @@ http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 http://185.22.183.147:8085/media/hls_183_147/jimjam_hq/index.m3u8
 #EXTINF:-1,RU:Смайлик ТВ hdTV
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,RU:CN Russe hdTV
+http://82.200.127.58:8080/udp/239.54.6.57:1224
+#EXTINF:-1,RU:KARUSEL Kids hdTV
+http://82.200.127.58:8080/udp/239.54.5.35:1224
+#EXTINF:-1,RU:Ping Vinukas TV
+http://e02.plius.tv:64144/l99/index.m3u8
+#EXTINF:-1,RU:DisneyXD TV
+http://e02.plius.tv:64144/l96/index.m3u8
+#EXTINF:-1,RU:Nick TV
+http://89.189.191.250/239.211.211.30/stream.m3u8
+#EXTINF:-1,RU:Detsky TV
+http://89.189.191.250/239.211.211.69/stream.m3u8
+#EXTINF:-1,RU:Detsky Mir TV
+http://89.189.191.250/239.211.211.80/stream.m3u8
+#EXTINF:-1,RU:Detsky Mir TV
+http://82.200.127.58:8080/udp/239.54.5.97:1224
+#EXTINF:-1,RU:Fan Kids TV
+http://82.200.127.58:8080/udp/239.54.6.168:1224
+#EXTINF:-1,RU:Disney Channel
+http://82.200.127.58:8080/udp/239.54.5.67:1224
+#EXTINF:-1,RU:Disney+4 TV
+http://82.200.127.58:8080/udp/239.54.6.206:1224
+#EXTINF:-1,RU:Nickelodeon TV
+http://82.200.127.58:8080/udp/239.54.7.69:1224
+#EXTINF:-1,RU:NICK JR TV
+http://82.200.127.58:8080/udp/239.54.6.5:1234
+#EXTINF:-1,RU:Мама Kids TV
+http://82.200.127.58:8080/udp/239.54.5.44:1224
+#EXTINF:-1,RU:CTC Kids hdTV
+http://82.200.127.58:8080/udp/239.54.6.108:1234
+#EXTINF:-1,RU:КАРУСЕЛЬ hdTV
+http://82.200.127.58:8080/udp/239.0.42.58:1224
+#EXTINF:-1,RU:Ani Kids hdTV
+http://82.200.127.58:8080/udp/239.54.6.109:1234
+#EXTINF:-1,RU:Multilandia Kids TV
+http://82.200.127.58:8080/udp/239.54.5.158:1224
+#EXTINF:-1,RU:Mult Kids M&M TV
+http://82.200.127.58:8080/udp/239.54.7.155:1224
+#EXTINF:-1,RU:Tlum Kids M&M hdTV
+http://82.200.127.58:8080/udp/239.54.6.181:1234
+#EXTINF:-1,RU:PYATIY M&M TV
+http://82.200.127.58:8080/udp/239.0.42.27:1224
+#EXTINF:-1,RU:ПЯТЫЙ КАНАЛ M&M sdTV
+http://82.200.127.58:8080/udp/239.0.42.85:1224
+#EXTINF:-1,RU:ПЯТЫЙ КАНАЛ M&M hdTV
+http://82.200.127.58:8080/udp/239.0.42.55:1224
+#EXTINF:-1,RU:O+ Kids TV
+http://82.200.127.58:8080/udp/239.54.6.241:1234
+#EXTINF:-1,RU:САРАФАН !! kids TV
+http://82.200.127.58:8080/udp/239.54.5.212:1224
+#EXTINF:-1,RU:Gulli Girl hdTV
+http://94.19.54.185:81/udp/239.239.12.3:5239
+#EXTINF:-1,RU:JimJam hdTV
+http://109.248.93.99:4044/udp/239.195.1.8:1234
+#EXTINF:-1,RU:Tiji Kids hdTV
+http://109.248.93.99:4044/udp/239.195.1.51:1234
+#EXTINF:-1,RU:Unikum Kids TV
+http://109.184.113.76:4088/udp/225.52.123.92:5000
+#EXTINF:-1,RU:В гостях у сказки
+http://109.184.113.76:4088/udp/225.52.123.182:5000
 #EXTINF:-1,GE:ԲԱԶՄՈՑ TV
 http://212.42.193.122:8888/play/a008/index.m3u8
 #EXTINF:-1,UC:Малятко ТВ
