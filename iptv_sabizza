@@ -731,8 +731,8 @@ http://136.243.177.164:80/NATIONALGEOGRAPHIC/index.m3u8?h=ykPqH2kF2-kWzzLR9tVudQ
 http://89.189.191.250/239.211.211.40/stream.m3u8
 #EXTINF:-1,HI:NatGeo Eng TV
 http://182.176.93.225:8000/play/a00z
-#EXTINF:-1,LAT:Love Nature Br HD
-http://177.91.162.202:8000/play/LoveNature/index.m3u8
+#EXTINF:-1,SP:Love Nature hdTV
+https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 #EXTINF:-1,RU:NatGeoWild Rus sdTV
 http://185.22.183.150:8085/media/hls_183_150/natgeow/index.m3u8
 #EXTINF:-1,RU:NatGeoWild Rus hdTV
