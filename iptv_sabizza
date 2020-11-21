@@ -65,7 +65,9 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1,FR:France Info TV
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
-#EXTINF:-1,FR:CNews
+#EXTINF:-1,FR:CNews hdTV
+http://178.18.49.42:8080/play/a00r
+#EXTINF:-1,FR:CNews TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/CNews.m3u8?fluxustv.m3u8
 #EXTINF:-1,FR:CNews TV
 https://stream-06.dc3.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gZAg1gWzqyowJq5if5Bsx68)/dm/3/x3b68jn/d/live-2.m3u8
@@ -77,12 +79,24 @@ http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1,FR:Public Sénat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PSenat.m3u8
+#EXTINF:-1,FR:AfricaNews Fre TV
+https://stream-03.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irTEjzcp3CCavl_keB-YOAl0)/dm/3/x6i37o5/s/live-2.m3u8
+#EXTINF:-1,FR:AfricaNews Eng TV
+https://stream-11.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irVF1iatwOiy4Cj4dOCLNqso)/dm/3/x6i7vf8/s/live-2.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?fluxustv.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:0,BE:LN24 hdTV
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby &checkedby
+#EXTINF:0,BE:LN24 hdTV+
+https://ch.iptvmate.net/5e934fdf29cfe3061a1f95d7.m3u8
+#EXTINF:-1,FR:Monaco Info TV
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1,FR:Euronews Fre TV
+http://83.164.148.178:8888/play/a00r
+#EXTINF:-1,FR:Euronews Fre TV
+https://stream-02.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa0PVTDOIDbLZNmxZsaxCZJw)/dm/3/x2j4lj9/d/live-2.m3u8
 #EXTINF:-1,UK:Euronews Eng TV
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
 #EXTINF:-1,DE:Euronews Deu TV
@@ -101,6 +115,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby
 #EXTINF:-1,CA:Assemblé Générale TV
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby
+#EXTINF:-1,CA:Assemblé Générale TV
+http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist_w726868247.m3u8
 #EXTINF:-1,SP:247 Noticias TV
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1,IT:Rai News 24
