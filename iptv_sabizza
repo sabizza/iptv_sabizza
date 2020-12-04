@@ -287,14 +287,24 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://92.246.85.105:8010/play/a021/index.m3u8
 #EXTINF:-1,AR:Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:-1,FR:Boing TV
-http://51.15.3.161:8080/boing/index.m3u8?token=test
+#EXTINF:-1,FR:BOING Français  
+http://178.132.3.162:88/boing/index.m3u8?token=test
+#EXTINF:-1,FR:Piwi+ TV
+http://178.132.3.162:88/Piwi/index.m3u8?token=test
+#EXTINF:-1,FR:Canal J  
+http://178.132.3.162:88/CanalJ/video.m3u8?token=test
+#EXTINF:-1,FR:Gulli TV 
+http://178.132.3.162:88/Gulli/index.m3u8?token=test
 #EXTINF:-1,FR:GULLI hdTV
 http://178.18.49.42:8080/play/a00t
+#EXTINF:-1,FR:Hirondille Kids TV
+http://play.acwstream.com:2000/live/acw_01/index.m3u8
 #EXTINF:-1,FR:CN fr TV
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 #EXTINF:-1,US:CN eng TV
 http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8
+#EXTINF:-1,US:CN eng TV
+http://125.209.99.45:43568/BRN/CartoonNetwork.stream/playlist.m3u8
 #EXTINF:-1,??:CN TV
 http://178.132.3.162:88/cartoon_network/index.m3u8?token=test
 #EXTINF:-1,FR:Teletoon++ TV
@@ -311,6 +321,10 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 http://152.89.35.254:8000/play/a00u/index.m3u8
 #EXTINF:-1,SP:DISNEY JR
 http://152.89.35.254:8000/play/a01b/index.m3u8
+#EXTINF:-1,SP:CN TV
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test
+#EXTINF:-1,??:CN TV
+http://188.35.9.11:21151/udp/185f
 #EXTINF:-1,IT:Cartoonito TV
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1,DE:Disney Channel
@@ -369,10 +383,28 @@ http://92.246.85.106:8000/play/a04n/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,UK:Nick Junior TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,??:Kids Eng TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=&appName=web&appVersion=5&deviceDNT=0&deviceId=5&deviceMake=0&deviceModel=0&deviceType=web&deviceVersion=0&includeExtendedEvents=false&sid=5&userId=&serverSideAds=true
+#EXTINF:-1,UK:Lolly Kids hdTV
+http://e02.plius.tv:64144/n102/index.m3u8
+#EXTINF:-1,UK:Duck hdTV
+http://e02.plius.tv:64144/n100/index.m3u8
+#EXTINF:0,UK:Disney Junior hdTV
+http://e02.plius.tv:64144/n98/index.m3u8
+#EXTINF:0,UK:Disney XD
+http://e02.plius.tv:64144/l96/index.m3u8
+#EXTINF:0,UK:Disney Channel hdTV
+http://e02.plius.tv:64144/l97/index.m3u8
+#EXTINF:0,UK:Boomerang hdTV
+http://e02.plius.tv:64144/l16/index.m3u8
+#EXTINF:0,UK:CN Eng hdTV
+http://e02.plius.tv:64144/l15/index.m3u8
+#EXTINF:0,UK:Da Vinci Kids
+http://e02.plius.tv:64144/l79/index.m3u8
+#EXTINF:0,UK:English Club hdTV
+http://e02.plius.tv:64144/l45/index.m3u8
 #EXTINF:-1,UK:Learnings English Kids TV
 http://210.210.155.35/uq2663/h/h97/index.m3u8
-#EXTINF:-1,UK:3BTV Game TV
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/index-v1-a1.m3u8
 #EXTINF:-1,UK:TCT Kids TV
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1,BE:Kenet Kids TV
@@ -389,12 +421,10 @@ http://wpso.com:1936/hls/kidshd.m3u8
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 #EXTINF:-1,CZ:Jajko TV
 http://nn.geo.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1,PL:MiniMini+ hdTV
-http://51.83.238.27:8888/231/mono.m3u8?token=80a7f5c
-#EXTINF:-1,PL:JimJam hdTV
-http://51.83.238.27:8888/202/mono.m3u8?token=80a7f5c
-#EXTINF:-1,PL:TeleTOON+ hdTV
-http://51.83.238.27:8888/168/mono.m3u8?token=80a7f5c
+#EXTINF:0,CZ:JimJam HD
+http://e02.plius.tv:64144/l48/index.m3u8
+#EXTINF:0,CZ:KidsZone TV
+http://e02.plius.tv:64144/l49/index.m3u8
 #EXTINF:-1,BG:EKids TV
 https://cdn1.mobiletv.bg/T8/ekids/ekids_794613_850k.m3u8
 #EXTINF:-1,BG:NICK JR TV
@@ -403,7 +433,7 @@ https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
 http://136.243.177.164/NICKELODEON/playlist.m3u8
 #EXTINF:-1,KS:N Kids TV
 http://62.210.152.92:25461/shqipHD/12/20
-#EXTINF:-1,Pebble TV
+#EXTINF:-1,??:Pebble TV
 http://83.128.58.176:9981/play/a0aq
 #EXTINF:-1,US:3ABN Kids TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
@@ -451,6 +481,10 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
 #EXTINF:-1,LAT:Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1,LAT:Locomotion TV
+http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1,LAT:JPE Kids TV
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,LAT:LogoskidsHD TV
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1,LAT:Gospel Cartoon
@@ -557,6 +591,28 @@ http://109.248.93.99:4044/udp/239.195.1.51:1234
 http://109.184.113.76:4088/udp/225.52.123.92:5000
 #EXTINF:-1,RU:В гостях у сказки
 http://109.184.113.76:4088/udp/225.52.123.182:5000
+#EXTINF:-1,RU:Мультмузыка
+http://182.73.122.74:10005/bysid/401
+#EXTINF:-1,RU:МультСказки 
+https://autopilot.catcast.tv/content/38850/index.m3u8%20
+#EXTINF:-1,RU:O! Kids TV
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:0,RU:Nick.
+http://e02.plius.tv:64144/l153/index.m3u8
+#EXTINF:0,RU:NickJr.
+http://e02.plius.tv:64144/l154/index.m3u8
+#EXTINF:0,RU:NickToons
+http://e02.plius.tv:64144/l155/index.m3u8
+#EXTINF:34,RU:O! kids TV
+http://e02.plius.tv:64144/n153/index.m3u8
+#EXTINF:0,RU:Ping Vinukas TV
+http://e02.plius.tv:64144/l99/index.m3u8
+#EXTINF:-1,RU:Disney Channel Rus
+http://176.115.152.6:4001/play/a009/index.m3u8
+#EXTINF:0,RU:Karusel
+http://e02.plius.tv:64144/l110/index.m3u8
+#EXTINF:-1,??:NICKELODEON TV
+http://136.243.177.164/NICKELODEON/playlist.m3u8
 #EXTINF:-1,GE:ԲԱԶՄՈՑ TV
 http://212.42.193.122:8888/play/a008/index.m3u8
 #EXTINF:-1,UC:Малятко ТВ
@@ -641,6 +697,8 @@ http://193.42.99.130:23455/3720/playlist.m3u8
 http://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=token
 #EXTINF:-1,JP:ANIMAX JEM
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
+#EXTINF:-1,JP:Animax J TV
+https://cdn.jpth10.jpnettv.live/jptv/janimax_720/index.m3u8
 #EXTINF:-1,JP:ANIMAX
 http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
 #EXTINF:-1,JP:ANIPLUS
@@ -671,6 +729,8 @@ https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,TH:Boomerang TV
 http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:0,TH:OneKids TV
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 #EXTINF:-1,ID:Astro Cartoon
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1,ID:Toomax TV
@@ -679,6 +739,8 @@ http://103.130.186.138:8800/oxygenplay/toonmax/index.m3u8
 http://189.91.128.150:5555/udp/227.10.20.83:1234
 #EXTINF:-1,FR:Monde du loisir Tv
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/chunklist_w1265440117_b2000000_t64SGlnaA==.m3u8
+#EXTINF:-1,UK:3BTV Game TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/index-v1-a1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DOCUMENTARY & EDUCATION" tvg-logo="" group-title="DOCUMENTARY & EDUCATION",===== DOCUMENTARY & EDUCATION =====
 http://api.oneiptv.tv/load.php?id=0
 #EXTINF:-1,MR:Arrabiaa TV
