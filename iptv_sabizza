@@ -45,6 +45,8 @@ https://live-hls-web-aja.getaj.net/AJA/05.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,AL:Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1,AR:Almanar TV
+https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1,TR:TGRT Haber TV
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 #EXTINF:-1,TR:NTV
@@ -99,6 +101,8 @@ http://83.164.148.178:8888/play/a00r
 https://stream-02.ix7.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa0PVTDOIDbLZNmxZsaxCZJw)/dm/3/x2j4lj9/d/live-2.m3u8
 #EXTINF:-1,UK:Euronews Eng TV
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/index.m3u8
+#EXTINF:0,UK:Euronews Eng hdTV
+http://e02.plius.tv:64144/l27/index.m3u8
 #EXTINF:-1,DE:Euronews Deu TV
 http://176.10.117.3:5000/play/a02s
 #EXTINF:-1,GK:Euronews Greck
